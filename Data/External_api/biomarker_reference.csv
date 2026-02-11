@@ -1,0 +1,11 @@
+biomarker_symbol,ncbi_gene_id,official_name,description,ncbi_symbol
+TP53,7157,TP53,tumor protein p53,TP53
+BRCA1,672,BRCA1,BRCA1 DNA repair associated,BRCA1
+BRCA2,675,BRCA2,BRCA2 DNA repair associated,BRCA2
+EGFR,1956,EGFR,epidermal growth factor receptor,EGFR
+KRAS,3845,KRAS,"KRAS proto-oncogene, GTPase",KRAS
+BRAF,673,BRAF,"B-Raf proto-oncogene, serine/threonine kinase",BRAF
+PIK3CA,5290,PIK3CA,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha",PIK3CA
+PTEN,5728,PTEN,phosphatase and tensin homolog,PTEN
+ALK,238,ALK,ALK receptor tyrosine kinase,ALK
+ERBB2,2064,ERBB2,erb-b2 receptor tyrosine kinase 2,ERBB2
