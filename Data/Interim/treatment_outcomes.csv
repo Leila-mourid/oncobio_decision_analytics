@@ -1,0 +1,1001 @@
+patient_id,traitement_principal,traitement_secondaire,date_debut_traitement,duree_traitement_semaines,nombre_cycles,reponse_traitement,toxicite_grade,recidive,delai_recidive_mois,jours_hospitalisation
+PAT00001,Chirurgie,,2019-04-21,12,,Réponse complète,2,Non,,0
+PAT00002,Radiothérapie,,2018-04-29,18,9.0,Réponse complète,0,Non,,3
+PAT00003,Chirurgie,,2021-02-26,18,,Maladie stable,0,Non,,0
+PAT00004,Chimiothérapie,,2020-10-28,18,8.0,Réponse complète,0,Non,,7
+PAT00005,Chirurgie,Immunothérapie,2020-07-29,24,,Maladie stable,2,Non,,7
+PAT00006,Chimiothérapie,,2019-08-08,12,10.0,Progression,1,Non,,0
+PAT00007,Radiothérapie,,2019-03-19,24,8.0,Maladie stable,2,Non,,0
+PAT00008,Chimiothérapie,Immunothérapie,2019-01-09,12,4.0,Maladie stable,1,Oui,17.0,3
+PAT00009,Immunothérapie,Chirurgie,2022-10-20,36,6.0,Maladie stable,1,Non,,3
+PAT00010,Radiothérapie,,2018-05-27,12,8.0,Réponse partielle,3,Non,,0
+PAT00011,Radiothérapie,,2018-05-11,12,5.0,Progression,2,Non,,0
+PAT00012,Chimiothérapie,,2019-02-14,18,10.0,Réponse partielle,1,Oui,39.0,0
+PAT00013,Radiothérapie,Immunothérapie,2020-06-26,6,4.0,Maladie stable,2,Non,,14
+PAT00014,Chimiothérapie,Thérapie ciblée,2020-08-30,6,10.0,Progression,1,Oui,34.0,3
+PAT00015,Radiothérapie,,2023-09-06,12,5.0,Réponse partielle,1,Non,,7
+PAT00016,Chimiothérapie,,2018-05-13,12,11.0,Réponse partielle,2,Non,,7
+PAT00017,Chirurgie,Chimiothérapie,2020-04-16,36,,Réponse partielle,4,Oui,45.0,7
+PAT00018,Immunothérapie,Chirurgie,2022-09-30,6,5.0,Maladie stable,0,Non,,3
+PAT00019,Chimiothérapie,,2020-07-15,6,6.0,Maladie stable,0,Non,,7
+PAT00020,Radiothérapie,Immunothérapie,2023-01-26,12,10.0,Réponse complète,1,Non,,7
+PAT00021,Chimiothérapie,,2021-03-10,6,6.0,Réponse partielle,2,Non,,3
+PAT00022,Radiothérapie,,2018-02-03,12,11.0,Réponse partielle,1,Non,,14
+PAT00023,Chirurgie,Thérapie ciblée,2019-11-10,6,,Réponse partielle,2,Non,,0
+PAT00024,Radiothérapie,Hormonothérapie,2022-10-17,6,9.0,Réponse complète,1,Non,,0
+PAT00025,Immunothérapie,,2021-11-21,12,8.0,Réponse partielle,1,Non,,7
+PAT00026,Chimiothérapie,,2021-02-26,24,9.0,Progression,1,Non,,7
+PAT00027,Chimiothérapie,,2019-10-24,18,7.0,Maladie stable,3,Oui,43.0,3
+PAT00028,Chimiothérapie,,2020-06-18,18,4.0,Maladie stable,2,Non,,0
+PAT00029,Chimiothérapie,,2021-10-18,36,9.0,Réponse partielle,3,Non,,3
+PAT00030,Immunothérapie,,2019-03-04,12,10.0,Maladie stable,1,Non,,3
+PAT00031,Chirurgie,Radiothérapie,2019-01-21,12,,Réponse complète,1,Non,,0
+PAT00032,Thérapie ciblée,Chimiothérapie,2022-04-12,18,6.0,Progression,1,Oui,47.0,7
+PAT00033,Radiothérapie,,2019-02-15,18,5.0,Réponse partielle,1,Non,,7
+PAT00034,Chimiothérapie,Radiothérapie,2022-01-30,18,6.0,Progression,4,Non,,0
+PAT00035,Chirurgie,Radiothérapie,2021-11-17,18,,Réponse complète,1,Non,,14
+PAT00036,Chirurgie,,2020-12-27,18,,Maladie stable,2,Non,,7
+PAT00037,Radiothérapie,Immunothérapie,2018-07-09,24,8.0,Progression,1,Oui,38.0,3
+PAT00038,Radiothérapie,Thérapie ciblée,2023-03-19,6,7.0,Réponse partielle,3,Non,,3
+PAT00039,Chirurgie,Hormonothérapie,2019-06-05,6,,Réponse complète,1,Oui,32.0,21
+PAT00040,Radiothérapie,Chirurgie,2022-04-17,18,6.0,Progression,3,Non,,0
+PAT00041,Radiothérapie,,2018-12-08,18,9.0,Progression,3,Non,,3
+PAT00042,Chimiothérapie,Immunothérapie,2021-05-01,12,9.0,Maladie stable,0,Non,,21
+PAT00043,Chirurgie,Chimiothérapie,2022-02-16,18,,Réponse complète,3,Non,,14
+PAT00044,Chirurgie,,2020-03-26,12,,Réponse partielle,3,Oui,10.0,0
+PAT00045,Radiothérapie,,2018-11-08,24,9.0,Réponse complète,2,Oui,10.0,14
+PAT00046,Radiothérapie,,2018-07-29,6,4.0,Progression,2,Non,,14
+PAT00047,Chimiothérapie,,2020-08-09,18,5.0,Réponse partielle,3,Non,,3
+PAT00048,Chimiothérapie,Thérapie ciblée,2021-04-23,12,7.0,Maladie stable,2,Non,,0
+PAT00049,Chirurgie,Chimiothérapie,2018-12-21,6,,Réponse partielle,1,Non,,14
+PAT00050,Chimiothérapie,Thérapie ciblée,2020-09-08,18,6.0,Réponse partielle,0,Non,,7
+PAT00051,Chirurgie,Chimiothérapie,2019-02-27,12,,Maladie stable,3,Non,,7
+PAT00052,Chimiothérapie,,2022-04-24,18,5.0,Réponse partielle,1,Oui,39.0,3
+PAT00053,Radiothérapie,,2021-03-09,18,6.0,Maladie stable,3,Oui,21.0,0
+PAT00054,Chimiothérapie,Radiothérapie,2023-02-09,6,4.0,Maladie stable,2,Non,,3
+PAT00055,Chimiothérapie,Hormonothérapie,2022-02-23,36,8.0,Progression,2,Non,,7
+PAT00056,Chirurgie,Immunothérapie,2019-11-22,12,,Réponse complète,2,Non,,7
+PAT00057,Chirurgie,Chimiothérapie,2022-03-15,12,,Réponse partielle,3,Non,,0
+PAT00058,Thérapie ciblée,,2022-01-08,18,10.0,Progression,0,Oui,39.0,3
+PAT00059,Chirurgie,,2020-05-14,12,,Progression,1,Non,,14
+PAT00060,Radiothérapie,Hormonothérapie,2021-01-25,18,10.0,Réponse complète,0,Oui,34.0,3
+PAT00061,Chirurgie,Immunothérapie,2018-11-05,36,,Maladie stable,1,Oui,19.0,0
+PAT00062,Chirurgie,Thérapie ciblée,2019-12-13,6,,Réponse complète,1,Non,,3
+PAT00063,Chimiothérapie,,2024-01-16,18,5.0,Maladie stable,1,Non,,0
+PAT00064,Radiothérapie,Hormonothérapie,2020-10-18,24,8.0,Réponse partielle,1,Oui,15.0,7
+PAT00065,Chirurgie,,2019-11-13,36,,Réponse complète,0,Oui,19.0,14
+PAT00066,Radiothérapie,Immunothérapie,2023-03-25,36,5.0,Maladie stable,0,Non,,7
+PAT00067,Chirurgie,,2022-04-12,36,,Progression,1,Non,,3
+PAT00068,Radiothérapie,Chirurgie,2021-02-05,6,11.0,Réponse complète,3,Non,,0
+PAT00069,Chirurgie,Thérapie ciblée,2020-07-04,24,,Réponse complète,1,Non,,3
+PAT00070,Immunothérapie,,2021-09-12,18,8.0,Réponse complète,1,Non,,0
+PAT00071,Chirurgie,,2018-09-12,18,,Réponse complète,2,Non,,7
+PAT00072,Chimiothérapie,,2020-08-12,36,8.0,Progression,1,Non,,0
+PAT00073,Chirurgie,,2018-05-18,12,,Réponse complète,1,Non,,3
+PAT00074,Chirurgie,,2021-08-02,6,,Réponse complète,1,Oui,20.0,7
+PAT00075,Chirurgie,,2022-07-15,6,,Réponse partielle,0,Oui,12.0,7
+PAT00076,Chimiothérapie,,2021-01-12,12,10.0,Maladie stable,2,Non,,14
+PAT00077,Chirurgie,,2018-10-07,6,,Réponse partielle,1,Non,,0
+PAT00078,Chimiothérapie,Radiothérapie,2020-06-02,12,10.0,Maladie stable,0,Non,,3
+PAT00079,Chirurgie,,2021-07-19,18,,Réponse partielle,1,Oui,42.0,14
+PAT00080,Chimiothérapie,Immunothérapie,2020-06-15,6,7.0,Réponse complète,1,Non,,3
+PAT00081,Chimiothérapie,Immunothérapie,2023-08-18,6,6.0,Réponse complète,1,Non,,3
+PAT00082,Radiothérapie,Thérapie ciblée,2022-07-04,36,6.0,Maladie stable,1,Non,,3
+PAT00083,Chirurgie,Immunothérapie,2023-03-20,24,,Réponse partielle,0,Non,,7
+PAT00084,Chirurgie,Hormonothérapie,2019-09-02,12,,Réponse partielle,2,Non,,3
+PAT00085,Chirurgie,,2020-12-25,18,,Maladie stable,1,Non,,7
+PAT00086,Chirurgie,,2019-08-01,6,,Réponse partielle,1,Non,,3
+PAT00087,Chirurgie,Immunothérapie,2020-11-06,24,,Réponse partielle,2,Non,,0
+PAT00088,Chimiothérapie,Thérapie ciblée,2020-12-27,18,4.0,Maladie stable,2,Non,,7
+PAT00089,Chimiothérapie,Thérapie ciblée,2022-11-02,18,10.0,Réponse complète,3,Oui,29.0,7
+PAT00090,Immunothérapie,,2022-07-03,12,5.0,Réponse complète,1,Non,,7
+PAT00091,Chimiothérapie,,2022-02-21,6,7.0,Réponse partielle,0,Non,,14
+PAT00092,Chirurgie,Radiothérapie,2020-07-10,18,,Réponse partielle,1,Non,,3
+PAT00093,Chirurgie,Chimiothérapie,2019-08-01,18,,Maladie stable,2,Non,,7
+PAT00094,Chirurgie,Immunothérapie,2023-09-26,18,,Réponse partielle,2,Oui,10.0,14
+PAT00095,Chirurgie,,2023-08-13,24,,Réponse partielle,1,Non,,7
+PAT00096,Chimiothérapie,Immunothérapie,2019-01-30,18,4.0,Réponse partielle,2,Non,,0
+PAT00097,Chirurgie,Immunothérapie,2018-07-23,18,,Maladie stable,2,Oui,20.0,3
+PAT00098,Chirurgie,,2019-04-18,18,,Réponse complète,3,Non,,0
+PAT00099,Immunothérapie,Chimiothérapie,2019-09-30,6,7.0,Maladie stable,4,Oui,9.0,3
+PAT00100,Chimiothérapie,Chirurgie,2019-10-30,18,9.0,Progression,1,Non,,3
+PAT00101,Chirurgie,Thérapie ciblée,2022-10-11,12,,Réponse partielle,2,Oui,30.0,3
+PAT00102,Chirurgie,,2018-10-17,6,,Réponse partielle,3,Non,,0
+PAT00103,Chirurgie,Thérapie ciblée,2022-05-05,12,,Maladie stable,3,Oui,22.0,0
+PAT00104,Chirurgie,Hormonothérapie,2022-05-13,36,,Réponse complète,2,Non,,3
+PAT00105,Chirurgie,Hormonothérapie,2023-04-26,6,,Réponse complète,0,Non,,3
+PAT00106,Chirurgie,Chimiothérapie,2023-12-13,24,,Réponse partielle,1,Non,,14
+PAT00107,Chirurgie,,2020-11-08,24,,Réponse complète,1,Non,,0
+PAT00108,Chirurgie,,2018-02-26,24,,Maladie stable,4,Oui,10.0,7
+PAT00109,Chimiothérapie,,2019-04-24,24,6.0,Réponse partielle,1,Oui,46.0,0
+PAT00110,Immunothérapie,Thérapie ciblée,2021-01-19,12,4.0,Maladie stable,1,Non,,7
+PAT00111,Immunothérapie,Chimiothérapie,2021-11-07,36,6.0,Maladie stable,2,Non,,3
+PAT00112,Radiothérapie,Chimiothérapie,2019-05-02,18,5.0,Réponse partielle,1,Non,,7
+PAT00113,Chimiothérapie,Thérapie ciblée,2021-04-27,24,10.0,Réponse complète,2,Non,,14
+PAT00114,Chimiothérapie,,2022-11-24,12,11.0,Réponse complète,1,Oui,45.0,21
+PAT00115,Chirurgie,,2019-11-05,12,,Réponse complète,1,Oui,13.0,0
+PAT00116,Radiothérapie,,2023-02-07,18,11.0,Réponse partielle,3,Oui,29.0,7
+PAT00117,Immunothérapie,Hormonothérapie,2018-01-23,18,9.0,Progression,1,Non,,7
+PAT00118,Chimiothérapie,Radiothérapie,2020-12-19,12,5.0,Maladie stable,0,Non,,0
+PAT00119,Chimiothérapie,,2023-08-29,6,10.0,Réponse partielle,2,Non,,0
+PAT00120,Chimiothérapie,,2020-02-01,12,5.0,Maladie stable,2,Non,,14
+PAT00121,Chimiothérapie,,2023-10-11,18,7.0,Maladie stable,0,Non,,0
+PAT00122,Chirurgie,,2019-03-24,12,,Réponse partielle,2,Oui,45.0,3
+PAT00123,Chimiothérapie,Chirurgie,2021-05-30,12,9.0,Réponse partielle,3,Non,,14
+PAT00124,Chirurgie,,2023-09-26,18,,Réponse partielle,2,Oui,6.0,3
+PAT00125,Radiothérapie,,2020-03-30,18,4.0,Réponse partielle,4,Non,,7
+PAT00126,Immunothérapie,,2019-09-29,24,10.0,Progression,2,Non,,14
+PAT00127,Chimiothérapie,,2022-03-25,18,6.0,Maladie stable,0,Oui,22.0,14
+PAT00128,Immunothérapie,,2019-10-30,12,11.0,Réponse partielle,0,Non,,3
+PAT00129,Chimiothérapie,Hormonothérapie,2023-12-22,12,11.0,Réponse complète,1,Non,,7
+PAT00130,Radiothérapie,,2018-01-31,18,6.0,Réponse complète,2,Non,,7
+PAT00131,Chirurgie,,2021-09-07,12,,Progression,1,Non,,7
+PAT00132,Radiothérapie,Immunothérapie,2023-07-16,36,6.0,Réponse complète,1,Non,,14
+PAT00133,Chirurgie,Thérapie ciblée,2018-03-29,24,,Réponse partielle,2,Non,,0
+PAT00134,Radiothérapie,Immunothérapie,2019-05-02,12,9.0,Réponse complète,2,Non,,3
+PAT00135,Chirurgie,,2022-02-02,12,,Maladie stable,2,Non,,7
+PAT00136,Chirurgie,Radiothérapie,2021-07-03,18,,Maladie stable,1,Non,,7
+PAT00137,Chimiothérapie,,2020-09-26,12,7.0,Réponse partielle,1,Non,,3
+PAT00138,Radiothérapie,,2018-09-24,36,11.0,Maladie stable,2,Non,,3
+PAT00139,Chirurgie,Immunothérapie,2020-09-29,6,,Réponse complète,1,Oui,19.0,0
+PAT00140,Chimiothérapie,Immunothérapie,2018-12-10,6,8.0,Réponse partielle,3,Non,,0
+PAT00141,Chimiothérapie,,2019-01-09,12,11.0,Maladie stable,2,Oui,23.0,0
+PAT00142,Immunothérapie,,2023-06-22,6,6.0,Maladie stable,0,Non,,3
+PAT00143,Immunothérapie,Chimiothérapie,2018-10-30,36,5.0,Progression,3,Non,,0
+PAT00144,Chirurgie,Hormonothérapie,2024-01-12,18,,Réponse complète,2,Oui,8.0,7
+PAT00145,Chimiothérapie,Immunothérapie,2019-06-12,18,7.0,Progression,2,Non,,7
+PAT00146,Chimiothérapie,,2019-07-04,18,10.0,Progression,2,Non,,0
+PAT00147,Chirurgie,,2023-05-07,36,,Maladie stable,4,Oui,46.0,0
+PAT00148,Chirurgie,,2019-12-06,18,,Réponse complète,2,Non,,14
+PAT00149,Radiothérapie,,2021-01-20,36,11.0,Réponse partielle,3,Non,,0
+PAT00150,Thérapie ciblée,,2023-12-28,6,9.0,Réponse partielle,2,Non,,7
+PAT00151,Radiothérapie,,2022-10-21,6,4.0,Réponse complète,0,Non,,3
+PAT00152,Chimiothérapie,,2020-05-31,18,10.0,Progression,3,Non,,7
+PAT00153,Chimiothérapie,,2020-04-22,24,6.0,Réponse partielle,2,Non,,14
+PAT00154,Chimiothérapie,,2021-07-25,24,9.0,Réponse partielle,2,Non,,7
+PAT00155,Radiothérapie,,2022-06-28,12,4.0,Maladie stable,2,Non,,21
+PAT00156,Chirurgie,,2022-03-16,18,,Maladie stable,0,Non,,7
+PAT00157,Immunothérapie,Radiothérapie,2022-12-20,12,8.0,Progression,2,Oui,45.0,3
+PAT00158,Chimiothérapie,,2023-11-07,18,9.0,Réponse partielle,2,Non,,7
+PAT00159,Radiothérapie,,2023-02-11,12,10.0,Progression,1,Oui,23.0,0
+PAT00160,Chirurgie,Hormonothérapie,2019-06-06,12,,Progression,1,Oui,25.0,0
+PAT00161,Chirurgie,Chimiothérapie,2020-10-20,24,,Réponse partielle,1,Non,,3
+PAT00162,Radiothérapie,,2020-07-29,18,7.0,Réponse complète,3,Oui,6.0,14
+PAT00163,Chirurgie,Chimiothérapie,2018-10-17,18,,Réponse partielle,1,Non,,0
+PAT00164,Chirurgie,Immunothérapie,2021-11-04,24,,Réponse partielle,2,Oui,46.0,21
+PAT00165,Chirurgie,Chimiothérapie,2018-04-04,24,,Réponse partielle,1,Oui,9.0,0
+PAT00166,Radiothérapie,,2020-08-07,18,9.0,Réponse partielle,1,Non,,0
+PAT00167,Immunothérapie,,2020-07-06,12,11.0,Réponse partielle,0,Oui,42.0,14
+PAT00168,Chirurgie,Chimiothérapie,2018-02-23,18,,Maladie stable,2,Non,,7
+PAT00169,Chimiothérapie,Hormonothérapie,2018-10-27,36,10.0,Réponse partielle,1,Non,,0
+PAT00170,Chimiothérapie,,2018-09-06,24,10.0,Réponse complète,0,Oui,31.0,0
+PAT00171,Chirurgie,Radiothérapie,2020-08-04,12,,Réponse partielle,2,Non,,3
+PAT00172,Chirurgie,Immunothérapie,2018-10-17,18,,Réponse complète,0,Non,,14
+PAT00173,Immunothérapie,,2018-06-02,18,11.0,Réponse partielle,2,Non,,7
+PAT00174,Chimiothérapie,Thérapie ciblée,2021-10-10,6,9.0,Maladie stable,2,Non,,0
+PAT00175,Chimiothérapie,Radiothérapie,2018-11-10,6,5.0,Réponse partielle,3,Non,,3
+PAT00176,Immunothérapie,,2023-10-29,36,11.0,Maladie stable,2,Oui,6.0,3
+PAT00177,Radiothérapie,,2020-09-28,18,7.0,Maladie stable,1,Oui,39.0,3
+PAT00178,Chimiothérapie,,2021-03-01,12,6.0,Réponse complète,1,Non,,14
+PAT00179,Chirurgie,Thérapie ciblée,2023-06-29,18,,Maladie stable,1,Non,,3
+PAT00180,Chimiothérapie,,2020-06-20,36,10.0,Réponse partielle,2,Oui,14.0,3
+PAT00181,Radiothérapie,,2019-07-17,12,5.0,Réponse partielle,0,Oui,27.0,7
+PAT00182,Chimiothérapie,,2023-05-05,24,4.0,Réponse complète,0,Non,,0
+PAT00183,Chimiothérapie,Radiothérapie,2020-10-11,6,10.0,Réponse partielle,1,Non,,14
+PAT00184,Chirurgie,,2023-05-13,18,,Maladie stable,3,Oui,16.0,0
+PAT00185,Radiothérapie,Chirurgie,2022-08-19,6,5.0,Maladie stable,1,Non,,7
+PAT00186,Chirurgie,Chimiothérapie,2020-03-08,18,,Maladie stable,0,Non,,21
+PAT00187,Radiothérapie,Immunothérapie,2019-01-30,12,8.0,Réponse partielle,3,Oui,20.0,14
+PAT00188,Chirurgie,Hormonothérapie,2019-03-04,18,,Maladie stable,2,Non,,0
+PAT00189,Chirurgie,Chimiothérapie,2022-11-28,36,,Réponse partielle,1,Non,,7
+PAT00190,Chirurgie,Hormonothérapie,2021-12-30,18,,Réponse partielle,2,Non,,3
+PAT00191,Chirurgie,,2022-10-26,24,,Réponse complète,1,Oui,42.0,0
+PAT00192,Chimiothérapie,Radiothérapie,2022-09-05,18,11.0,Réponse partielle,2,Non,,0
+PAT00193,Radiothérapie,,2023-04-26,18,8.0,Progression,4,Non,,3
+PAT00194,Chirurgie,Hormonothérapie,2018-09-01,18,,Progression,0,Oui,16.0,7
+PAT00195,Chirurgie,,2019-03-08,12,,Réponse complète,1,Non,,0
+PAT00196,Chimiothérapie,Chirurgie,2018-09-17,18,10.0,Progression,2,Non,,3
+PAT00197,Chimiothérapie,,2022-07-26,12,7.0,Réponse partielle,0,Non,,0
+PAT00198,Chimiothérapie,,2021-11-09,12,4.0,Réponse partielle,0,Non,,3
+PAT00199,Chimiothérapie,,2019-04-05,36,5.0,Réponse partielle,2,Non,,14
+PAT00200,Chirurgie,,2020-11-02,18,,Réponse partielle,1,Non,,0
+PAT00201,Chirurgie,Chimiothérapie,2020-03-10,36,,Maladie stable,1,Non,,0
+PAT00202,Chirurgie,Immunothérapie,2020-03-09,6,,Réponse complète,3,Non,,7
+PAT00203,Radiothérapie,Immunothérapie,2023-01-29,6,6.0,Réponse partielle,2,Non,,14
+PAT00204,Chirurgie,,2019-08-16,36,,Progression,2,Non,,0
+PAT00205,Chimiothérapie,,2022-10-23,24,6.0,Progression,4,Non,,7
+PAT00206,Immunothérapie,,2020-01-30,24,11.0,Maladie stable,4,Non,,7
+PAT00207,Chirurgie,,2021-03-01,12,,Réponse complète,3,Non,,0
+PAT00208,Chirurgie,,2023-03-28,18,,Maladie stable,2,Oui,14.0,14
+PAT00209,Chimiothérapie,Radiothérapie,2020-11-04,12,9.0,Réponse partielle,2,Non,,14
+PAT00210,Chimiothérapie,Radiothérapie,2018-12-01,6,6.0,Maladie stable,3,Non,,7
+PAT00211,Chimiothérapie,,2023-01-03,18,9.0,Réponse partielle,0,Oui,31.0,7
+PAT00212,Chirurgie,Immunothérapie,2019-02-22,12,,Réponse partielle,2,Non,,7
+PAT00213,Chimiothérapie,Chirurgie,2018-08-05,6,11.0,Réponse partielle,2,Oui,45.0,0
+PAT00214,Immunothérapie,,2018-03-28,12,11.0,Réponse partielle,3,Non,,7
+PAT00215,Chirurgie,Immunothérapie,2019-02-07,6,,Réponse partielle,1,Non,,3
+PAT00216,Radiothérapie,,2020-09-02,12,11.0,Réponse partielle,1,Oui,11.0,7
+PAT00217,Chirurgie,,2019-11-20,18,,Réponse partielle,0,Non,,3
+PAT00218,Chimiothérapie,Radiothérapie,2022-07-30,36,8.0,Maladie stable,1,Non,,0
+PAT00219,Chirurgie,Chimiothérapie,2023-06-20,18,,Réponse complète,3,Non,,21
+PAT00220,Chimiothérapie,Hormonothérapie,2023-06-13,12,7.0,Réponse partielle,0,Oui,13.0,3
+PAT00221,Chirurgie,Thérapie ciblée,2020-06-02,24,,Réponse complète,2,Non,,0
+PAT00222,Radiothérapie,,2022-07-29,18,10.0,Maladie stable,2,Oui,45.0,3
+PAT00223,Chirurgie,Radiothérapie,2018-09-26,12,,Réponse partielle,1,Non,,7
+PAT00224,Radiothérapie,Immunothérapie,2019-11-22,18,8.0,Réponse complète,1,Non,,0
+PAT00225,Chimiothérapie,Chirurgie,2022-05-02,12,6.0,Réponse partielle,0,Non,,0
+PAT00226,Chimiothérapie,,2018-01-18,6,8.0,Réponse partielle,0,Oui,28.0,14
+PAT00227,Immunothérapie,,2022-06-10,18,9.0,Maladie stable,1,Non,,0
+PAT00228,Radiothérapie,,2020-12-28,24,4.0,Progression,0,Oui,15.0,14
+PAT00229,Chimiothérapie,Chirurgie,2023-03-02,24,9.0,Maladie stable,0,Non,,0
+PAT00230,Chirurgie,Thérapie ciblée,2021-04-05,36,,Réponse partielle,1,Non,,3
+PAT00231,Radiothérapie,,2022-10-21,12,7.0,Progression,3,Non,,7
+PAT00232,Chimiothérapie,,2023-07-02,6,9.0,Maladie stable,1,Non,,0
+PAT00233,Chirurgie,,2019-10-23,36,,Progression,2,Non,,0
+PAT00234,Radiothérapie,,2020-02-25,12,6.0,Progression,0,Non,,14
+PAT00235,Radiothérapie,,2021-05-18,6,10.0,Maladie stable,4,Non,,0
+PAT00236,Chirurgie,,2020-06-26,12,,Réponse complète,2,Non,,14
+PAT00237,Chirurgie,,2018-09-23,12,,Réponse partielle,1,Non,,21
+PAT00238,Chirurgie,Chimiothérapie,2018-10-06,18,,Maladie stable,2,Non,,7
+PAT00239,Radiothérapie,,2021-07-26,6,10.0,Maladie stable,2,Non,,7
+PAT00240,Radiothérapie,,2018-09-20,18,7.0,Maladie stable,2,Non,,7
+PAT00241,Chirurgie,,2018-07-31,12,,Réponse complète,0,Non,,7
+PAT00242,Radiothérapie,Chimiothérapie,2023-05-21,12,8.0,Maladie stable,1,Oui,8.0,0
+PAT00243,Chirurgie,,2023-09-15,18,,Maladie stable,2,Non,,14
+PAT00244,Radiothérapie,Thérapie ciblée,2023-12-30,12,5.0,Réponse partielle,1,Non,,14
+PAT00245,Chirurgie,,2019-10-23,6,,Réponse complète,2,Oui,13.0,0
+PAT00246,Chirurgie,Immunothérapie,2018-08-29,24,,Maladie stable,2,Oui,42.0,14
+PAT00247,Chimiothérapie,,2023-10-05,12,4.0,Réponse complète,2,Non,,7
+PAT00248,Chirurgie,,2018-12-16,18,,Réponse complète,2,Oui,10.0,0
+PAT00249,Chirurgie,Thérapie ciblée,2020-02-12,12,,Progression,2,Non,,21
+PAT00250,Chimiothérapie,,2018-10-17,18,5.0,Réponse partielle,0,Oui,10.0,14
+PAT00251,Chirurgie,Radiothérapie,2018-11-01,6,,Réponse partielle,1,Non,,21
+PAT00252,Chimiothérapie,,2020-09-10,12,7.0,Réponse partielle,2,Non,,0
+PAT00253,Chimiothérapie,Radiothérapie,2022-07-24,18,6.0,Réponse partielle,3,Non,,7
+PAT00254,Immunothérapie,,2019-05-15,36,5.0,Réponse partielle,2,Non,,0
+PAT00255,Chimiothérapie,,2020-10-21,18,9.0,Réponse partielle,2,Oui,24.0,3
+PAT00256,Chirurgie,Chimiothérapie,2018-07-04,24,,Réponse complète,1,Oui,33.0,3
+PAT00257,Chirurgie,,2018-12-18,6,,Réponse complète,0,Non,,7
+PAT00258,Radiothérapie,Chimiothérapie,2022-09-22,18,9.0,Maladie stable,3,Non,,3
+PAT00259,Chirurgie,Hormonothérapie,2023-12-11,6,,Réponse partielle,1,Non,,0
+PAT00260,Chirurgie,,2021-08-01,24,,Réponse partielle,2,Oui,19.0,14
+PAT00261,Chirurgie,,2020-12-27,12,,Réponse complète,1,Oui,36.0,3
+PAT00262,Chimiothérapie,Radiothérapie,2020-04-28,18,8.0,Réponse partielle,2,Non,,7
+PAT00263,Immunothérapie,Chirurgie,2021-08-09,6,4.0,Progression,2,Non,,3
+PAT00264,Radiothérapie,Chimiothérapie,2020-09-22,6,4.0,Réponse complète,2,Oui,14.0,7
+PAT00265,Chirurgie,Radiothérapie,2021-01-14,18,,Maladie stable,1,Non,,0
+PAT00266,Chirurgie,Hormonothérapie,2022-07-09,24,,Réponse partielle,1,Non,,0
+PAT00267,Immunothérapie,,2019-07-15,18,10.0,Réponse partielle,4,Non,,3
+PAT00268,Chirurgie,Thérapie ciblée,2021-06-06,24,,Réponse complète,3,Non,,7
+PAT00269,Radiothérapie,Immunothérapie,2023-03-14,36,7.0,Maladie stable,2,Non,,3
+PAT00270,Immunothérapie,Thérapie ciblée,2021-08-13,24,4.0,Progression,4,Non,,0
+PAT00271,Chirurgie,,2018-11-16,18,,Progression,0,Non,,7
+PAT00272,Chirurgie,Chimiothérapie,2018-02-13,18,,Maladie stable,2,Non,,3
+PAT00273,Chirurgie,,2023-03-17,12,,Réponse complète,1,Non,,7
+PAT00274,Chimiothérapie,,2019-03-12,18,8.0,Réponse partielle,3,Non,,7
+PAT00275,Chirurgie,,2018-11-24,18,,Progression,1,Non,,3
+PAT00276,Chimiothérapie,Hormonothérapie,2020-06-05,12,7.0,Réponse partielle,1,Non,,0
+PAT00277,Chirurgie,,2023-09-09,12,,Réponse complète,2,Non,,3
+PAT00278,Chimiothérapie,,2021-01-01,18,6.0,Progression,3,Non,,3
+PAT00279,Immunothérapie,Chimiothérapie,2019-07-10,12,5.0,Réponse partielle,0,Oui,26.0,0
+PAT00280,Chirurgie,,2021-12-27,12,,Réponse partielle,2,Non,,7
+PAT00281,Chirurgie,Radiothérapie,2018-11-07,18,,Réponse partielle,2,Non,,3
+PAT00282,Chirurgie,,2020-10-11,24,,Réponse complète,2,Non,,3
+PAT00283,Chimiothérapie,,2022-03-09,6,11.0,Progression,2,Non,,3
+PAT00284,Chimiothérapie,Hormonothérapie,2021-03-29,18,5.0,Réponse partielle,2,Non,,0
+PAT00285,Thérapie ciblée,,2019-10-14,12,11.0,Réponse partielle,2,Non,,0
+PAT00286,Chimiothérapie,Radiothérapie,2022-12-10,6,6.0,Maladie stable,2,Non,,3
+PAT00287,Chirurgie,,2021-06-02,36,,Maladie stable,3,Non,,7
+PAT00288,Chimiothérapie,Chirurgie,2023-12-30,24,6.0,Réponse complète,1,Oui,40.0,3
+PAT00289,Chimiothérapie,,2018-02-28,24,8.0,Réponse partielle,2,Non,,0
+PAT00290,Radiothérapie,Chirurgie,2021-05-28,24,6.0,Progression,1,Non,,7
+PAT00291,Chirurgie,Immunothérapie,2019-03-08,12,,Réponse complète,1,Oui,46.0,0
+PAT00292,Chirurgie,,2019-07-14,6,,Maladie stable,2,Non,,3
+PAT00293,Chimiothérapie,,2021-01-16,24,4.0,Réponse partielle,2,Non,,3
+PAT00294,Chirurgie,Chimiothérapie,2019-05-13,36,,Réponse partielle,2,Oui,34.0,7
+PAT00295,Radiothérapie,Thérapie ciblée,2019-03-20,18,7.0,Réponse partielle,3,Non,,7
+PAT00296,Chimiothérapie,,2019-10-06,18,9.0,Maladie stable,0,Non,,0
+PAT00297,Chirurgie,,2021-02-17,18,,Maladie stable,2,Non,,14
+PAT00298,Chimiothérapie,,2021-03-21,12,5.0,Réponse complète,1,Non,,3
+PAT00299,Chirurgie,,2020-05-23,6,,Réponse partielle,2,Non,,14
+PAT00300,Chirurgie,Immunothérapie,2021-11-22,12,,Réponse complète,2,Non,,14
+PAT00301,Chirurgie,,2020-05-01,24,,Maladie stable,3,Non,,0
+PAT00302,Chirurgie,,2021-01-05,6,,Réponse complète,2,Non,,14
+PAT00303,Chimiothérapie,,2023-09-17,12,9.0,Réponse partielle,1,Oui,11.0,3
+PAT00304,Chirurgie,Hormonothérapie,2023-07-05,12,,Maladie stable,0,Non,,7
+PAT00305,Chirurgie,Immunothérapie,2020-11-10,18,,Réponse complète,1,Oui,7.0,7
+PAT00306,Chirurgie,,2018-08-11,6,,Progression,3,Non,,3
+PAT00307,Chimiothérapie,,2019-02-11,12,4.0,Réponse partielle,1,Non,,0
+PAT00308,Chimiothérapie,,2022-10-16,6,4.0,Progression,2,Oui,23.0,0
+PAT00309,Immunothérapie,Chimiothérapie,2021-03-08,12,11.0,Réponse partielle,1,Oui,42.0,3
+PAT00310,Chimiothérapie,,2018-07-23,18,5.0,Réponse partielle,1,Oui,31.0,3
+PAT00311,Thérapie ciblée,Hormonothérapie,2018-02-08,36,6.0,Maladie stable,2,Oui,13.0,0
+PAT00312,Chirurgie,,2021-10-05,18,,Progression,2,Non,,7
+PAT00313,Immunothérapie,Thérapie ciblée,2019-06-26,18,9.0,Maladie stable,2,Oui,18.0,7
+PAT00314,Chimiothérapie,Immunothérapie,2020-12-17,18,9.0,Réponse complète,1,Non,,14
+PAT00315,Chirurgie,,2019-11-03,6,,Réponse partielle,3,Non,,14
+PAT00316,Radiothérapie,,2023-01-13,24,4.0,Maladie stable,2,Non,,0
+PAT00317,Chimiothérapie,Hormonothérapie,2022-11-11,18,9.0,Réponse partielle,2,Oui,34.0,0
+PAT00318,Chirurgie,,2018-02-15,12,,Réponse partielle,3,Non,,0
+PAT00319,Radiothérapie,Chirurgie,2019-04-30,18,9.0,Réponse complète,0,Non,,0
+PAT00320,Chimiothérapie,,2018-11-12,18,8.0,Réponse partielle,2,Oui,43.0,7
+PAT00321,Thérapie ciblée,,2019-09-16,24,8.0,Maladie stable,4,Non,,3
+PAT00322,Thérapie ciblée,,2018-06-16,6,5.0,Maladie stable,1,Non,,0
+PAT00323,Chimiothérapie,Radiothérapie,2022-03-19,24,11.0,Réponse partielle,3,Oui,40.0,14
+PAT00324,Chimiothérapie,Thérapie ciblée,2019-09-17,12,6.0,Réponse partielle,2,Non,,3
+PAT00325,Immunothérapie,,2022-11-16,36,6.0,Maladie stable,1,Non,,0
+PAT00326,Radiothérapie,,2019-07-01,18,11.0,Réponse partielle,2,Non,,3
+PAT00327,Chirurgie,Thérapie ciblée,2018-07-10,12,,Réponse partielle,3,Non,,0
+PAT00328,Chimiothérapie,,2021-07-04,36,11.0,Maladie stable,3,Non,,7
+PAT00329,Chimiothérapie,Thérapie ciblée,2022-02-15,24,6.0,Maladie stable,3,Oui,37.0,0
+PAT00330,Immunothérapie,Chirurgie,2018-06-24,36,9.0,Réponse partielle,1,Oui,33.0,0
+PAT00331,Chirurgie,,2022-02-03,18,,Maladie stable,1,Non,,14
+PAT00332,Chimiothérapie,Immunothérapie,2020-05-31,12,6.0,Maladie stable,0,Non,,7
+PAT00333,Chirurgie,Chimiothérapie,2020-10-27,12,,Réponse partielle,3,Non,,3
+PAT00334,Chimiothérapie,Chirurgie,2019-03-14,24,7.0,Réponse complète,1,Oui,15.0,7
+PAT00335,Chirurgie,Chimiothérapie,2022-01-06,18,,Maladie stable,3,Oui,29.0,14
+PAT00336,Radiothérapie,Chimiothérapie,2022-07-31,6,5.0,Réponse complète,3,Non,,7
+PAT00337,Chimiothérapie,,2019-10-10,24,10.0,Maladie stable,0,Non,,3
+PAT00338,Thérapie ciblée,,2020-09-22,18,6.0,Maladie stable,1,Non,,3
+PAT00339,Radiothérapie,,2019-11-23,36,7.0,Réponse partielle,1,Oui,15.0,14
+PAT00340,Chimiothérapie,,2020-01-19,12,9.0,Réponse partielle,2,Non,,0
+PAT00341,Radiothérapie,,2022-09-05,18,6.0,Maladie stable,3,Oui,46.0,3
+PAT00342,Chimiothérapie,Radiothérapie,2018-05-03,12,9.0,Réponse partielle,1,Non,,3
+PAT00343,Chirurgie,,2020-01-31,6,,Progression,4,Non,,0
+PAT00344,Radiothérapie,,2021-10-06,18,4.0,Progression,2,Oui,45.0,7
+PAT00345,Chimiothérapie,,2022-08-20,12,10.0,Réponse complète,2,Non,,0
+PAT00346,Chirurgie,,2020-10-25,24,,Réponse partielle,1,Oui,9.0,14
+PAT00347,Radiothérapie,,2021-01-14,18,7.0,Progression,3,Non,,0
+PAT00348,Radiothérapie,Chimiothérapie,2019-11-08,36,8.0,Réponse complète,1,Non,,7
+PAT00349,Chirurgie,Chimiothérapie,2019-03-25,6,,Réponse partielle,4,Oui,39.0,3
+PAT00350,Chimiothérapie,,2022-04-21,12,7.0,Progression,1,Non,,0
+PAT00351,Radiothérapie,,2018-06-19,24,5.0,Réponse partielle,2,Non,,7
+PAT00352,Chimiothérapie,Thérapie ciblée,2023-04-26,24,10.0,Réponse complète,2,Oui,8.0,3
+PAT00353,Immunothérapie,Chimiothérapie,2020-07-11,12,5.0,Maladie stable,1,Oui,19.0,0
+PAT00354,Chirurgie,,2020-04-26,6,,Réponse partielle,1,Non,,0
+PAT00355,Chirurgie,Thérapie ciblée,2023-03-10,12,,Réponse partielle,1,Oui,8.0,3
+PAT00356,Chimiothérapie,Chirurgie,2022-01-01,24,7.0,Progression,1,Non,,3
+PAT00357,Chirurgie,,2021-06-17,36,,Réponse partielle,0,Oui,42.0,14
+PAT00358,Chimiothérapie,Chirurgie,2020-08-04,6,10.0,Maladie stable,0,Non,,0
+PAT00359,Chimiothérapie,,2020-07-17,12,8.0,Progression,0,Non,,7
+PAT00360,Radiothérapie,,2018-04-15,12,8.0,Réponse complète,2,Non,,0
+PAT00361,Immunothérapie,,2020-03-07,12,11.0,Maladie stable,2,Non,,0
+PAT00362,Chirurgie,,2022-07-11,24,,Progression,3,Non,,7
+PAT00363,Radiothérapie,Chirurgie,2021-10-04,18,8.0,Réponse partielle,0,Non,,7
+PAT00364,Radiothérapie,,2021-03-05,12,8.0,Réponse complète,3,Oui,35.0,7
+PAT00365,Radiothérapie,,2018-10-22,18,6.0,Progression,0,Oui,43.0,7
+PAT00366,Chirurgie,,2021-02-26,18,,Maladie stable,4,Non,,0
+PAT00367,Radiothérapie,Chimiothérapie,2021-12-26,36,11.0,Réponse partielle,3,Non,,7
+PAT00368,Immunothérapie,,2023-10-10,18,7.0,Maladie stable,2,Non,,3
+PAT00369,Immunothérapie,,2022-07-23,18,6.0,Réponse partielle,1,Non,,14
+PAT00370,Immunothérapie,,2021-09-30,12,4.0,Progression,2,Non,,0
+PAT00371,Radiothérapie,,2018-05-15,12,6.0,Réponse partielle,1,Oui,24.0,7
+PAT00372,Radiothérapie,,2019-05-10,6,5.0,Progression,1,Non,,3
+PAT00373,Chimiothérapie,,2020-12-31,6,5.0,Réponse partielle,1,Non,,21
+PAT00374,Immunothérapie,Chirurgie,2020-02-01,36,11.0,Progression,1,Non,,7
+PAT00375,Chimiothérapie,Immunothérapie,2021-01-08,6,9.0,Réponse partielle,1,Oui,31.0,3
+PAT00376,Thérapie ciblée,Hormonothérapie,2018-06-13,36,6.0,Progression,0,Oui,31.0,7
+PAT00377,Chimiothérapie,,2019-04-07,12,11.0,Maladie stable,2,Oui,8.0,7
+PAT00378,Chirurgie,Thérapie ciblée,2022-12-13,18,,Réponse partielle,0,Non,,3
+PAT00379,Chirurgie,Thérapie ciblée,2021-11-22,24,,Réponse partielle,1,Non,,0
+PAT00380,Chimiothérapie,,2021-07-26,6,9.0,Progression,1,Oui,31.0,3
+PAT00381,Radiothérapie,Immunothérapie,2022-11-28,12,7.0,Réponse partielle,2,Non,,14
+PAT00382,Immunothérapie,Chimiothérapie,2023-10-15,36,7.0,Maladie stable,1,Non,,7
+PAT00383,Chirurgie,Chimiothérapie,2019-04-26,12,,Réponse partielle,2,Non,,0
+PAT00384,Radiothérapie,Hormonothérapie,2022-05-12,24,7.0,Réponse partielle,1,Oui,13.0,3
+PAT00385,Chirurgie,,2020-03-12,12,,Réponse complète,1,Oui,29.0,0
+PAT00386,Radiothérapie,Immunothérapie,2020-11-27,12,9.0,Réponse partielle,2,Non,,0
+PAT00387,Chimiothérapie,Hormonothérapie,2018-07-24,6,4.0,Progression,0,Non,,3
+PAT00388,Radiothérapie,,2022-12-09,18,5.0,Réponse partielle,2,Oui,29.0,14
+PAT00389,Chirurgie,Hormonothérapie,2018-02-03,24,,Réponse partielle,2,Non,,0
+PAT00390,Chirurgie,,2023-11-25,6,,Réponse partielle,3,Non,,7
+PAT00391,Chirurgie,,2020-04-05,18,,Réponse partielle,2,Non,,3
+PAT00392,Chirurgie,,2022-02-14,12,,Réponse complète,3,Non,,14
+PAT00393,Radiothérapie,Hormonothérapie,2022-11-10,36,10.0,Réponse complète,2,Non,,7
+PAT00394,Chimiothérapie,Hormonothérapie,2018-10-31,24,10.0,Réponse partielle,0,Non,,0
+PAT00395,Chirurgie,,2021-09-19,18,,Réponse complète,2,Non,,0
+PAT00396,Chimiothérapie,,2021-07-24,6,8.0,Maladie stable,3,Non,,0
+PAT00397,Chirurgie,Chimiothérapie,2019-06-05,12,,Réponse partielle,2,Non,,0
+PAT00398,Chimiothérapie,Immunothérapie,2021-06-14,6,8.0,Progression,3,Non,,0
+PAT00399,Radiothérapie,,2023-10-03,12,8.0,Maladie stable,2,Non,,0
+PAT00400,Thérapie ciblée,,2021-07-09,24,7.0,Progression,1,Non,,0
+PAT00401,Chirurgie,Hormonothérapie,2022-08-27,18,,Maladie stable,0,Non,,14
+PAT00402,Radiothérapie,Chirurgie,2021-09-14,36,11.0,Progression,2,Oui,13.0,0
+PAT00403,Radiothérapie,Immunothérapie,2022-07-14,12,5.0,Réponse complète,0,Non,,14
+PAT00404,Radiothérapie,,2021-05-14,24,10.0,Maladie stable,2,Non,,7
+PAT00405,Chimiothérapie,,2019-06-14,6,9.0,Réponse complète,3,Non,,7
+PAT00406,Chirurgie,,2020-03-08,24,,Réponse partielle,3,Oui,41.0,21
+PAT00407,Chirurgie,Immunothérapie,2022-10-07,18,,Maladie stable,2,Non,,14
+PAT00408,Chirurgie,Radiothérapie,2022-04-25,12,,Progression,2,Non,,7
+PAT00409,Chirurgie,,2019-12-31,6,,Réponse partielle,1,Non,,0
+PAT00410,Chirurgie,,2021-06-07,12,,Réponse complète,2,Oui,18.0,0
+PAT00411,Radiothérapie,Hormonothérapie,2022-07-29,18,6.0,Réponse complète,3,Non,,3
+PAT00412,Chirurgie,,2018-01-19,36,,Réponse complète,2,Oui,20.0,0
+PAT00413,Chimiothérapie,Radiothérapie,2021-06-12,12,11.0,Maladie stable,0,Non,,0
+PAT00414,Chirurgie,,2021-04-18,12,,Maladie stable,2,Oui,45.0,3
+PAT00415,Chirurgie,Radiothérapie,2020-05-25,12,,Réponse partielle,2,Non,,0
+PAT00416,Chimiothérapie,,2022-11-08,6,11.0,Progression,3,Oui,32.0,7
+PAT00417,Chimiothérapie,Hormonothérapie,2021-08-27,36,11.0,Réponse complète,3,Non,,7
+PAT00418,Radiothérapie,,2023-04-18,18,6.0,Réponse complète,2,Oui,14.0,21
+PAT00419,Chimiothérapie,,2022-12-25,6,7.0,Réponse complète,2,Non,,14
+PAT00420,Chirurgie,Thérapie ciblée,2022-12-24,12,,Réponse partielle,0,Non,,3
+PAT00421,Immunothérapie,Radiothérapie,2020-06-15,6,5.0,Maladie stable,3,Oui,36.0,7
+PAT00422,Immunothérapie,,2023-10-20,6,10.0,Réponse partielle,0,Non,,3
+PAT00423,Chirurgie,,2023-05-01,18,,Réponse partielle,4,Non,,0
+PAT00424,Immunothérapie,,2019-12-18,12,11.0,Progression,2,Non,,14
+PAT00425,Radiothérapie,,2019-01-04,24,10.0,Réponse partielle,1,Non,,0
+PAT00426,Radiothérapie,,2021-03-19,12,4.0,Réponse partielle,2,Non,,7
+PAT00427,Chimiothérapie,,2023-11-11,12,8.0,Maladie stable,2,Non,,3
+PAT00428,Chirurgie,Chimiothérapie,2021-10-20,24,,Réponse partielle,3,Non,,7
+PAT00429,Chimiothérapie,Radiothérapie,2019-02-03,18,11.0,Maladie stable,0,Oui,36.0,3
+PAT00430,Chirurgie,,2020-09-17,24,,Réponse partielle,3,Non,,7
+PAT00431,Thérapie ciblée,Hormonothérapie,2021-07-20,36,8.0,Maladie stable,1,Non,,14
+PAT00432,Radiothérapie,,2020-07-18,12,9.0,Maladie stable,2,Non,,14
+PAT00433,Chimiothérapie,Chirurgie,2020-04-07,12,6.0,Réponse complète,0,Oui,34.0,0
+PAT00434,Radiothérapie,,2019-09-04,6,11.0,Maladie stable,3,Non,,3
+PAT00435,Chirurgie,Immunothérapie,2018-04-20,24,,Réponse complète,2,Oui,46.0,7
+PAT00436,Chirurgie,Hormonothérapie,2018-07-22,12,,Réponse complète,2,Non,,3
+PAT00437,Chimiothérapie,,2020-10-10,12,5.0,Progression,1,Oui,46.0,0
+PAT00438,Chimiothérapie,,2023-05-11,12,11.0,Progression,2,Non,,3
+PAT00439,Chirurgie,Chimiothérapie,2018-11-19,12,,Maladie stable,1,Non,,14
+PAT00440,Radiothérapie,,2023-02-18,24,7.0,Réponse partielle,1,Non,,14
+PAT00441,Radiothérapie,Immunothérapie,2022-09-23,6,10.0,Réponse complète,2,Oui,12.0,7
+PAT00442,Chimiothérapie,,2020-04-05,18,5.0,Réponse complète,2,Non,,14
+PAT00443,Chimiothérapie,Hormonothérapie,2022-05-17,36,10.0,Réponse partielle,2,Non,,21
+PAT00444,Radiothérapie,Immunothérapie,2023-07-25,12,7.0,Maladie stable,1,Non,,0
+PAT00445,Radiothérapie,Thérapie ciblée,2022-07-05,24,6.0,Réponse complète,2,Non,,7
+PAT00446,Chirurgie,Immunothérapie,2020-10-25,24,,Réponse partielle,2,Non,,14
+PAT00447,Chirurgie,,2019-09-22,12,,Réponse partielle,0,Non,,7
+PAT00448,Immunothérapie,,2018-02-12,18,9.0,Progression,2,Non,,0
+PAT00449,Chirurgie,Chimiothérapie,2019-04-01,18,,Maladie stable,2,Non,,0
+PAT00450,Chirurgie,,2022-11-06,12,,Réponse partielle,2,Non,,7
+PAT00451,Chirurgie,Thérapie ciblée,2020-07-08,6,,Réponse complète,2,Non,,7
+PAT00452,Chirurgie,Hormonothérapie,2020-01-20,18,,Réponse partielle,2,Non,,0
+PAT00453,Chimiothérapie,Chirurgie,2023-11-15,6,11.0,Réponse complète,0,Non,,7
+PAT00454,Radiothérapie,,2023-04-06,6,8.0,Réponse partielle,1,Non,,3
+PAT00455,Chirurgie,,2018-08-20,6,,Réponse partielle,0,Non,,14
+PAT00456,Chimiothérapie,Radiothérapie,2020-11-09,6,9.0,Maladie stable,0,Non,,0
+PAT00457,Chimiothérapie,,2019-06-07,6,9.0,Réponse complète,2,Non,,0
+PAT00458,Chimiothérapie,Chirurgie,2023-03-10,18,5.0,Réponse complète,1,Non,,0
+PAT00459,Immunothérapie,Chirurgie,2019-07-25,12,4.0,Progression,1,Non,,21
+PAT00460,Chimiothérapie,,2023-04-03,12,5.0,Progression,1,Non,,7
+PAT00461,Chirurgie,,2024-01-10,18,,Réponse partielle,2,Non,,0
+PAT00462,Chirurgie,Chimiothérapie,2021-08-07,24,,Maladie stable,1,Non,,0
+PAT00463,Chirurgie,,2022-12-27,12,,Réponse partielle,0,Oui,39.0,7
+PAT00464,Chimiothérapie,Chirurgie,2023-09-18,12,9.0,Maladie stable,0,Non,,14
+PAT00465,Chirurgie,,2022-10-21,12,,Réponse complète,1,Non,,3
+PAT00466,Radiothérapie,Chirurgie,2023-01-21,24,7.0,Réponse partielle,3,Non,,3
+PAT00467,Chirurgie,Radiothérapie,2019-11-02,12,,Progression,2,Non,,3
+PAT00468,Chirurgie,,2023-05-24,12,,Réponse complète,4,Non,,14
+PAT00469,Radiothérapie,Thérapie ciblée,2023-02-01,12,6.0,Réponse partielle,3,Oui,32.0,0
+PAT00470,Chimiothérapie,Chirurgie,2020-12-27,12,11.0,Progression,3,Non,,7
+PAT00471,Thérapie ciblée,Chirurgie,2020-10-22,18,9.0,Réponse complète,1,Oui,24.0,7
+PAT00472,Chirurgie,,2021-03-04,12,,Réponse complète,2,Oui,7.0,14
+PAT00473,Chimiothérapie,,2023-11-12,36,5.0,Progression,1,Non,,7
+PAT00474,Chimiothérapie,,2023-06-24,6,4.0,Progression,3,Non,,7
+PAT00475,Radiothérapie,,2020-09-27,12,11.0,Réponse complète,2,Non,,21
+PAT00476,Chirurgie,Hormonothérapie,2021-02-05,12,,Réponse partielle,1,Oui,25.0,3
+PAT00477,Chirurgie,Chimiothérapie,2022-12-21,6,,Réponse partielle,1,Non,,0
+PAT00478,Immunothérapie,Hormonothérapie,2018-12-03,36,7.0,Maladie stable,1,Non,,14
+PAT00479,Chimiothérapie,Radiothérapie,2021-04-04,12,7.0,Réponse partielle,2,Non,,14
+PAT00480,Chimiothérapie,,2020-08-24,6,8.0,Progression,1,Non,,14
+PAT00481,Chirurgie,,2021-01-23,6,,Réponse partielle,0,Non,,7
+PAT00482,Chimiothérapie,Chirurgie,2021-10-23,24,9.0,Réponse partielle,3,Non,,0
+PAT00483,Radiothérapie,,2021-08-16,12,6.0,Réponse partielle,2,Non,,14
+PAT00484,Radiothérapie,,2018-12-04,6,6.0,Maladie stable,0,Oui,21.0,7
+PAT00485,Chirurgie,,2019-08-15,12,,Réponse partielle,1,Oui,41.0,0
+PAT00486,Chirurgie,,2019-09-17,12,,Réponse complète,0,Non,,3
+PAT00487,Chirurgie,Immunothérapie,2020-08-29,6,,Maladie stable,0,Non,,7
+PAT00488,Radiothérapie,Chirurgie,2022-05-12,6,8.0,Réponse partielle,1,Oui,46.0,7
+PAT00489,Chirurgie,Thérapie ciblée,2019-10-09,24,,Réponse partielle,2,Oui,33.0,0
+PAT00490,Chimiothérapie,,2020-06-12,36,9.0,Réponse partielle,0,Non,,7
+PAT00491,Immunothérapie,Hormonothérapie,2018-10-10,24,11.0,Progression,0,Oui,27.0,0
+PAT00492,Chimiothérapie,Thérapie ciblée,2022-09-19,12,4.0,Progression,0,Non,,3
+PAT00493,Chirurgie,,2022-08-19,18,,Réponse partielle,2,Non,,7
+PAT00494,Chirurgie,Hormonothérapie,2021-10-17,6,,Réponse partielle,0,Non,,0
+PAT00495,Radiothérapie,,2023-04-21,12,7.0,Réponse complète,2,Non,,21
+PAT00496,Chimiothérapie,Radiothérapie,2022-09-06,12,6.0,Réponse partielle,0,Non,,3
+PAT00497,Chirurgie,,2018-10-02,18,,Réponse complète,3,Oui,36.0,7
+PAT00498,Radiothérapie,,2020-05-27,6,8.0,Réponse partielle,2,Oui,31.0,0
+PAT00499,Chirurgie,,2022-10-10,18,,Réponse partielle,1,Non,,14
+PAT00500,Chimiothérapie,Radiothérapie,2022-06-09,36,11.0,Maladie stable,2,Non,,3
+PAT00501,Chirurgie,,2018-04-02,18,,Réponse partielle,1,Non,,14
+PAT00502,Radiothérapie,,2022-04-23,36,8.0,Réponse partielle,3,Non,,7
+PAT00503,Chirurgie,Thérapie ciblée,2023-06-01,6,,Réponse complète,3,Non,,3
+PAT00504,Chirurgie,,2018-02-14,18,,Réponse complète,3,Non,,14
+PAT00505,Chirurgie,,2022-01-01,12,,Réponse partielle,1,Non,,3
+PAT00506,Chirurgie,,2021-05-17,6,,Réponse partielle,3,Non,,0
+PAT00507,Chimiothérapie,Thérapie ciblée,2022-05-23,18,9.0,Réponse partielle,3,Non,,7
+PAT00508,Radiothérapie,Hormonothérapie,2022-10-02,18,10.0,Réponse partielle,2,Non,,21
+PAT00509,Thérapie ciblée,Chimiothérapie,2020-06-30,18,6.0,Progression,0,Non,,3
+PAT00510,Chimiothérapie,,2023-07-23,18,6.0,Progression,2,Oui,16.0,3
+PAT00511,Chirurgie,Hormonothérapie,2020-07-02,12,,Réponse partielle,0,Non,,0
+PAT00512,Thérapie ciblée,Chirurgie,2021-02-18,18,6.0,Progression,2,Oui,34.0,7
+PAT00513,Radiothérapie,,2022-11-28,18,4.0,Réponse complète,2,Oui,31.0,0
+PAT00514,Chimiothérapie,,2023-07-04,36,8.0,Progression,0,Non,,3
+PAT00515,Chirurgie,,2018-05-24,6,,Réponse partielle,0,Non,,0
+PAT00516,Immunothérapie,,2022-05-22,18,7.0,Progression,0,Oui,47.0,0
+PAT00517,Chirurgie,Thérapie ciblée,2021-10-14,12,,Réponse partielle,0,Non,,7
+PAT00518,Chimiothérapie,,2022-07-27,18,9.0,Réponse partielle,1,Oui,39.0,0
+PAT00519,Chirurgie,Radiothérapie,2019-12-05,6,,Réponse complète,2,Oui,40.0,3
+PAT00520,Thérapie ciblée,Immunothérapie,2023-04-18,18,10.0,Réponse partielle,0,Oui,25.0,3
+PAT00521,Immunothérapie,,2019-06-26,6,8.0,Progression,1,Non,,0
+PAT00522,Chimiothérapie,,2024-01-18,12,11.0,Réponse partielle,1,Oui,11.0,14
+PAT00523,Thérapie ciblée,Radiothérapie,2018-05-12,12,4.0,Maladie stable,2,Non,,3
+PAT00524,Chirurgie,Thérapie ciblée,2022-06-26,36,,Réponse partielle,2,Oui,33.0,14
+PAT00525,Chirurgie,,2018-05-02,36,,Réponse partielle,2,Non,,3
+PAT00526,Chirurgie,Thérapie ciblée,2018-12-26,6,,Réponse partielle,2,Non,,14
+PAT00527,Chirurgie,Radiothérapie,2022-11-07,12,,Réponse complète,2,Non,,3
+PAT00528,Radiothérapie,,2019-07-24,24,10.0,Maladie stable,2,Non,,3
+PAT00529,Radiothérapie,,2023-03-24,12,4.0,Progression,3,Non,,3
+PAT00530,Radiothérapie,,2020-02-02,6,7.0,Progression,2,Non,,7
+PAT00531,Radiothérapie,Thérapie ciblée,2018-08-23,6,7.0,Réponse partielle,2,Oui,16.0,14
+PAT00532,Chirurgie,,2020-12-16,12,,Réponse complète,0,Non,,21
+PAT00533,Chimiothérapie,Radiothérapie,2022-04-28,12,10.0,Progression,3,Non,,0
+PAT00534,Chimiothérapie,,2021-09-26,36,6.0,Réponse complète,0,Non,,3
+PAT00535,Chimiothérapie,,2020-05-22,36,10.0,Maladie stable,2,Oui,17.0,0
+PAT00536,Chirurgie,Chimiothérapie,2023-03-08,12,,Maladie stable,2,Oui,8.0,3
+PAT00537,Chimiothérapie,Thérapie ciblée,2021-09-25,24,7.0,Réponse partielle,3,Non,,14
+PAT00538,Chirurgie,Chimiothérapie,2021-11-08,18,,Réponse complète,2,Non,,3
+PAT00539,Chirurgie,,2022-04-17,6,,Progression,3,Non,,14
+PAT00540,Radiothérapie,Chimiothérapie,2021-02-20,36,7.0,Réponse complète,3,Non,,7
+PAT00541,Chimiothérapie,Radiothérapie,2022-10-08,18,11.0,Maladie stable,0,Non,,0
+PAT00542,Chimiothérapie,,2020-11-07,6,5.0,Maladie stable,1,Non,,0
+PAT00543,Chirurgie,,2018-12-24,36,,Réponse partielle,2,Non,,0
+PAT00544,Chimiothérapie,,2023-05-07,24,9.0,Réponse complète,1,Non,,3
+PAT00545,Chimiothérapie,Radiothérapie,2018-04-07,36,9.0,Réponse partielle,2,Non,,14
+PAT00546,Chimiothérapie,Immunothérapie,2018-08-16,36,10.0,Maladie stable,2,Non,,21
+PAT00547,Chirurgie,Chimiothérapie,2021-12-17,12,,Réponse complète,2,Non,,0
+PAT00548,Chirurgie,Radiothérapie,2020-08-04,24,,Réponse complète,2,Oui,34.0,14
+PAT00549,Chirurgie,Radiothérapie,2018-11-04,18,,Réponse complète,2,Non,,0
+PAT00550,Radiothérapie,Chimiothérapie,2018-07-08,12,8.0,Réponse complète,2,Non,,21
+PAT00551,Immunothérapie,,2018-05-17,36,4.0,Réponse partielle,2,Oui,30.0,7
+PAT00552,Chirurgie,Immunothérapie,2020-10-24,6,,Réponse complète,1,Non,,7
+PAT00553,Chirurgie,,2020-04-03,12,,Progression,1,Non,,0
+PAT00554,Chirurgie,Radiothérapie,2018-04-17,24,,Réponse partielle,2,Non,,14
+PAT00555,Immunothérapie,,2019-10-13,18,11.0,Progression,3,Non,,7
+PAT00556,Radiothérapie,Hormonothérapie,2020-09-13,12,10.0,Réponse partielle,1,Non,,3
+PAT00557,Radiothérapie,,2019-06-18,18,4.0,Réponse partielle,4,Oui,42.0,7
+PAT00558,Chirurgie,,2023-05-08,24,,Réponse partielle,4,Non,,0
+PAT00559,Chirurgie,,2019-05-09,18,,Progression,2,Oui,7.0,7
+PAT00560,Radiothérapie,,2020-07-08,24,9.0,Réponse partielle,2,Non,,0
+PAT00561,Chirurgie,,2023-04-15,6,,Maladie stable,1,Oui,6.0,3
+PAT00562,Radiothérapie,,2020-12-02,24,9.0,Progression,1,Non,,14
+PAT00563,Immunothérapie,Hormonothérapie,2022-02-28,24,4.0,Maladie stable,0,Oui,8.0,14
+PAT00564,Radiothérapie,Thérapie ciblée,2019-12-13,18,9.0,Réponse partielle,1,Oui,28.0,0
+PAT00565,Chimiothérapie,Hormonothérapie,2019-05-12,12,5.0,Réponse partielle,1,Non,,7
+PAT00566,Chimiothérapie,,2019-11-09,6,10.0,Progression,3,Non,,3
+PAT00567,Chirurgie,,2021-07-12,12,,Réponse partielle,3,Oui,26.0,3
+PAT00568,Radiothérapie,Immunothérapie,2019-04-10,18,10.0,Réponse complète,1,Non,,0
+PAT00569,Chirurgie,Immunothérapie,2018-05-03,24,,Réponse partielle,1,Non,,7
+PAT00570,Immunothérapie,,2021-07-26,18,11.0,Réponse partielle,0,Non,,3
+PAT00571,Chirurgie,,2022-04-17,12,,Réponse complète,4,Non,,0
+PAT00572,Chirurgie,,2022-06-28,6,,Réponse partielle,0,Non,,7
+PAT00573,Chirurgie,Hormonothérapie,2020-04-01,24,,Maladie stable,1,Oui,9.0,3
+PAT00574,Radiothérapie,Chimiothérapie,2018-12-04,24,6.0,Réponse partielle,1,Non,,7
+PAT00575,Chirurgie,Hormonothérapie,2020-10-18,18,,Réponse partielle,2,Oui,35.0,7
+PAT00576,Chirurgie,,2019-03-22,12,,Réponse complète,2,Oui,8.0,0
+PAT00577,Chirurgie,,2021-06-15,6,,Réponse partielle,1,Non,,14
+PAT00578,Radiothérapie,Thérapie ciblée,2019-06-01,18,4.0,Maladie stable,0,Non,,0
+PAT00579,Chimiothérapie,,2018-06-25,24,5.0,Réponse complète,2,Oui,27.0,7
+PAT00580,Chimiothérapie,,2021-12-18,6,8.0,Progression,2,Oui,45.0,3
+PAT00581,Radiothérapie,,2024-01-18,24,4.0,Progression,2,Non,,14
+PAT00582,Immunothérapie,,2022-11-08,6,5.0,Maladie stable,3,Non,,3
+PAT00583,Radiothérapie,,2022-03-19,6,9.0,Maladie stable,0,Non,,0
+PAT00584,Immunothérapie,,2018-10-26,6,11.0,Progression,2,Non,,7
+PAT00585,Chirurgie,Hormonothérapie,2023-09-09,24,,Réponse partielle,2,Non,,0
+PAT00586,Chimiothérapie,,2021-11-14,36,10.0,Maladie stable,1,Non,,0
+PAT00587,Chimiothérapie,Thérapie ciblée,2018-03-07,18,11.0,Maladie stable,2,Non,,7
+PAT00588,Chirurgie,Thérapie ciblée,2022-09-27,12,,Progression,2,Non,,0
+PAT00589,Chirurgie,Chimiothérapie,2023-07-12,18,,Maladie stable,3,Oui,38.0,21
+PAT00590,Chimiothérapie,Chirurgie,2019-03-24,18,4.0,Réponse partielle,0,Non,,7
+PAT00591,Chimiothérapie,Radiothérapie,2022-12-10,6,5.0,Réponse partielle,3,Oui,12.0,7
+PAT00592,Chimiothérapie,,2022-02-12,18,11.0,Réponse partielle,2,Non,,3
+PAT00593,Chirurgie,Immunothérapie,2023-03-10,12,,Réponse complète,2,Oui,34.0,7
+PAT00594,Immunothérapie,,2019-10-01,36,5.0,Réponse partielle,3,Non,,21
+PAT00595,Radiothérapie,Immunothérapie,2022-11-28,12,8.0,Réponse partielle,1,Non,,7
+PAT00596,Radiothérapie,,2020-01-01,36,6.0,Réponse partielle,4,Non,,0
+PAT00597,Chirurgie,Immunothérapie,2023-11-15,24,,Maladie stable,0,Oui,37.0,0
+PAT00598,Chimiothérapie,,2021-01-25,12,6.0,Réponse partielle,4,Oui,46.0,0
+PAT00599,Chimiothérapie,Immunothérapie,2023-07-04,36,5.0,Réponse partielle,1,Non,,3
+PAT00600,Radiothérapie,Hormonothérapie,2023-03-28,24,8.0,Progression,3,Oui,6.0,7
+PAT00601,Radiothérapie,,2022-12-11,24,5.0,Maladie stable,2,Non,,21
+PAT00602,Chimiothérapie,Thérapie ciblée,2021-02-02,36,10.0,Maladie stable,1,Oui,26.0,3
+PAT00603,Chirurgie,Radiothérapie,2021-09-04,12,,Progression,1,Non,,0
+PAT00604,Immunothérapie,Chimiothérapie,2020-10-30,24,6.0,Maladie stable,0,Oui,20.0,3
+PAT00605,Chirurgie,Radiothérapie,2019-01-11,24,,Maladie stable,2,Oui,35.0,14
+PAT00606,Chimiothérapie,,2021-02-22,24,8.0,Maladie stable,4,Non,,14
+PAT00607,Radiothérapie,,2023-02-16,24,5.0,Maladie stable,3,Non,,14
+PAT00608,Radiothérapie,,2020-10-10,12,4.0,Maladie stable,3,Non,,14
+PAT00609,Thérapie ciblée,Hormonothérapie,2023-04-17,18,11.0,Progression,1,Non,,7
+PAT00610,Chirurgie,,2022-04-26,12,,Réponse partielle,0,Non,,21
+PAT00611,Chimiothérapie,Chirurgie,2021-10-18,36,9.0,Maladie stable,1,Non,,3
+PAT00612,Chimiothérapie,,2018-05-22,18,10.0,Réponse partielle,1,Oui,27.0,7
+PAT00613,Radiothérapie,,2023-08-04,6,4.0,Réponse partielle,0,Non,,3
+PAT00614,Chimiothérapie,,2021-09-02,24,7.0,Réponse partielle,2,Non,,7
+PAT00615,Radiothérapie,Thérapie ciblée,2020-01-25,12,5.0,Progression,3,Non,,14
+PAT00616,Chirurgie,Hormonothérapie,2023-07-01,18,,Progression,0,Non,,14
+PAT00617,Chimiothérapie,Radiothérapie,2020-06-14,24,9.0,Réponse partielle,1,Oui,6.0,0
+PAT00618,Chirurgie,,2022-01-22,12,,Réponse complète,2,Non,,7
+PAT00619,Chirurgie,,2020-12-18,12,,Maladie stable,2,Non,,0
+PAT00620,Thérapie ciblée,Chirurgie,2021-11-25,24,10.0,Réponse partielle,0,Oui,43.0,3
+PAT00621,Chirurgie,,2021-03-01,12,,Réponse partielle,2,Non,,21
+PAT00622,Chimiothérapie,Thérapie ciblée,2021-03-05,6,9.0,Réponse partielle,2,Oui,11.0,0
+PAT00623,Chimiothérapie,Radiothérapie,2018-03-02,36,6.0,Réponse partielle,2,Non,,0
+PAT00624,Chirurgie,Radiothérapie,2023-10-24,12,,Réponse partielle,1,Oui,16.0,0
+PAT00625,Radiothérapie,,2020-03-11,12,11.0,Réponse partielle,3,Non,,21
+PAT00626,Chimiothérapie,Thérapie ciblée,2019-01-02,12,11.0,Réponse partielle,2,Oui,28.0,7
+PAT00627,Chimiothérapie,Chirurgie,2020-10-11,6,7.0,Réponse partielle,3,Non,,3
+PAT00628,Chimiothérapie,Hormonothérapie,2022-08-20,24,11.0,Maladie stable,0,Non,,0
+PAT00629,Chirurgie,Thérapie ciblée,2023-07-07,6,,Réponse complète,1,Non,,0
+PAT00630,Chirurgie,Chimiothérapie,2020-09-30,18,,Réponse partielle,3,Oui,40.0,7
+PAT00631,Chirurgie,Chimiothérapie,2023-05-29,12,,Réponse partielle,2,Non,,7
+PAT00632,Radiothérapie,Chimiothérapie,2023-07-18,6,4.0,Maladie stable,2,Non,,7
+PAT00633,Chimiothérapie,Hormonothérapie,2023-02-08,36,11.0,Réponse partielle,1,Non,,3
+PAT00634,Chimiothérapie,Immunothérapie,2018-04-09,12,6.0,Progression,2,Oui,16.0,14
+PAT00635,Chimiothérapie,,2019-02-16,12,10.0,Réponse partielle,1,Non,,7
+PAT00636,Chirurgie,Chimiothérapie,2021-05-09,18,,Réponse complète,3,Non,,0
+PAT00637,Chimiothérapie,,2020-07-08,6,11.0,Réponse complète,1,Non,,0
+PAT00638,Chirurgie,Immunothérapie,2022-08-06,24,,Maladie stable,3,Non,,14
+PAT00639,Chimiothérapie,,2020-10-05,18,7.0,Réponse partielle,1,Non,,0
+PAT00640,Radiothérapie,,2021-06-22,6,6.0,Réponse partielle,1,Oui,42.0,14
+PAT00641,Radiothérapie,Immunothérapie,2022-03-22,18,9.0,Maladie stable,2,Non,,14
+PAT00642,Radiothérapie,Chirurgie,2023-05-23,18,5.0,Maladie stable,3,Non,,7
+PAT00643,Chimiothérapie,,2024-01-04,12,5.0,Réponse partielle,2,Non,,0
+PAT00644,Chimiothérapie,Immunothérapie,2021-11-20,36,7.0,Maladie stable,0,Non,,21
+PAT00645,Chimiothérapie,Radiothérapie,2022-10-25,24,4.0,Réponse complète,2,Non,,7
+PAT00646,Radiothérapie,Immunothérapie,2021-10-12,18,4.0,Maladie stable,2,Non,,21
+PAT00647,Thérapie ciblée,Hormonothérapie,2022-01-04,12,7.0,Progression,0,Oui,42.0,3
+PAT00648,Radiothérapie,,2023-02-21,36,11.0,Progression,2,Non,,0
+PAT00649,Chirurgie,Radiothérapie,2021-02-02,24,,Réponse partielle,4,Non,,0
+PAT00650,Chimiothérapie,Chirurgie,2021-07-08,36,11.0,Maladie stable,4,Non,,0
+PAT00651,Radiothérapie,Immunothérapie,2020-11-09,18,4.0,Réponse complète,1,Non,,3
+PAT00652,Chimiothérapie,,2020-08-31,6,9.0,Maladie stable,2,Oui,22.0,0
+PAT00653,Immunothérapie,Radiothérapie,2019-05-27,6,7.0,Maladie stable,4,Non,,0
+PAT00654,Immunothérapie,Radiothérapie,2020-03-20,12,11.0,Réponse partielle,2,Non,,3
+PAT00655,Chimiothérapie,,2021-08-06,18,11.0,Maladie stable,3,Non,,7
+PAT00656,Chirurgie,,2019-05-23,12,,Réponse complète,1,Non,,0
+PAT00657,Chimiothérapie,Thérapie ciblée,2020-02-08,6,10.0,Réponse complète,0,Non,,3
+PAT00658,Chirurgie,Hormonothérapie,2020-03-06,6,,Réponse complète,0,Non,,7
+PAT00659,Chimiothérapie,,2020-07-05,12,5.0,Réponse complète,2,Non,,14
+PAT00660,Chimiothérapie,Hormonothérapie,2023-07-01,12,8.0,Progression,0,Oui,11.0,7
+PAT00661,Chirurgie,Hormonothérapie,2021-02-15,18,,Maladie stable,1,Non,,3
+PAT00662,Chimiothérapie,Hormonothérapie,2023-12-02,6,5.0,Progression,1,Non,,3
+PAT00663,Chirurgie,Immunothérapie,2021-03-11,6,,Réponse partielle,0,Non,,0
+PAT00664,Chimiothérapie,Thérapie ciblée,2019-03-13,12,5.0,Réponse partielle,1,Non,,0
+PAT00665,Chirurgie,Immunothérapie,2020-03-26,24,,Maladie stable,2,Oui,12.0,0
+PAT00666,Chirurgie,Thérapie ciblée,2021-05-14,18,,Réponse partielle,3,Non,,21
+PAT00667,Radiothérapie,,2020-08-11,24,7.0,Maladie stable,2,Non,,14
+PAT00668,Chimiothérapie,Chirurgie,2022-01-26,36,7.0,Réponse partielle,2,Non,,3
+PAT00669,Chirurgie,,2020-02-01,36,,Maladie stable,1,Oui,11.0,14
+PAT00670,Chimiothérapie,Thérapie ciblée,2021-06-13,18,11.0,Progression,1,Oui,23.0,0
+PAT00671,Thérapie ciblée,,2018-03-07,12,10.0,Réponse complète,1,Non,,0
+PAT00672,Radiothérapie,,2024-01-11,18,6.0,Maladie stable,1,Non,,7
+PAT00673,Thérapie ciblée,Chirurgie,2019-06-10,36,7.0,Maladie stable,2,Non,,14
+PAT00674,Chirurgie,,2021-02-26,12,,Progression,0,Non,,7
+PAT00675,Chimiothérapie,,2018-07-16,12,10.0,Maladie stable,0,Non,,0
+PAT00676,Immunothérapie,,2018-08-25,12,6.0,Réponse partielle,1,Oui,18.0,0
+PAT00677,Immunothérapie,,2021-04-30,36,4.0,Progression,1,Non,,0
+PAT00678,Chirurgie,,2019-06-23,36,,Maladie stable,1,Non,,0
+PAT00679,Chirurgie,Hormonothérapie,2023-07-13,12,,Progression,2,Non,,7
+PAT00680,Chirurgie,Thérapie ciblée,2019-03-15,6,,Maladie stable,2,Non,,7
+PAT00681,Radiothérapie,Thérapie ciblée,2018-02-27,24,9.0,Réponse complète,2,Non,,0
+PAT00682,Radiothérapie,,2021-03-22,6,4.0,Réponse complète,2,Non,,0
+PAT00683,Radiothérapie,Hormonothérapie,2023-04-26,12,11.0,Réponse partielle,2,Non,,21
+PAT00684,Chirurgie,Radiothérapie,2023-05-31,12,,Réponse partielle,2,Oui,37.0,7
+PAT00685,Thérapie ciblée,Chirurgie,2022-12-15,18,7.0,Maladie stable,2,Non,,0
+PAT00686,Chimiothérapie,,2021-11-14,6,10.0,Réponse partielle,1,Non,,21
+PAT00687,Radiothérapie,,2020-02-01,12,6.0,Réponse partielle,1,Non,,0
+PAT00688,Thérapie ciblée,Chirurgie,2018-08-16,12,7.0,Progression,1,Non,,0
+PAT00689,Chimiothérapie,,2020-11-21,18,6.0,Réponse partielle,2,Non,,14
+PAT00690,Radiothérapie,Hormonothérapie,2023-05-27,12,5.0,Réponse partielle,3,Oui,6.0,0
+PAT00691,Radiothérapie,Hormonothérapie,2019-04-25,12,11.0,Progression,2,Oui,37.0,7
+PAT00692,Chimiothérapie,,2018-10-12,12,10.0,Progression,1,Non,,7
+PAT00693,Chimiothérapie,Hormonothérapie,2022-07-07,6,4.0,Réponse complète,2,Oui,22.0,7
+PAT00694,Radiothérapie,Hormonothérapie,2023-07-24,24,9.0,Progression,2,Oui,23.0,0
+PAT00695,Thérapie ciblée,,2018-11-12,24,8.0,Réponse partielle,2,Non,,3
+PAT00696,Chirurgie,,2018-08-13,12,,Progression,2,Oui,42.0,14
+PAT00697,Chirurgie,,2019-09-29,36,,Réponse complète,2,Non,,7
+PAT00698,Chimiothérapie,,2019-09-12,18,6.0,Maladie stable,1,Non,,0
+PAT00699,Radiothérapie,,2021-06-25,12,11.0,Maladie stable,2,Non,,0
+PAT00700,Thérapie ciblée,,2019-01-09,24,7.0,Progression,1,Non,,0
+PAT00701,Radiothérapie,,2020-10-28,6,6.0,Réponse complète,2,Oui,33.0,14
+PAT00702,Chirurgie,Radiothérapie,2019-05-31,12,,Réponse partielle,2,Oui,15.0,3
+PAT00703,Chimiothérapie,Radiothérapie,2022-09-10,18,10.0,Maladie stable,1,Oui,37.0,0
+PAT00704,Chimiothérapie,Radiothérapie,2020-07-22,12,8.0,Réponse complète,1,Non,,0
+PAT00705,Chimiothérapie,,2023-11-17,12,4.0,Réponse partielle,1,Non,,7
+PAT00706,Chirurgie,Hormonothérapie,2022-04-22,18,,Réponse partielle,0,Non,,14
+PAT00707,Thérapie ciblée,Chimiothérapie,2023-02-09,12,8.0,Progression,3,Non,,3
+PAT00708,Chirurgie,,2023-01-15,24,,Maladie stable,1,Non,,3
+PAT00709,Chimiothérapie,,2021-05-11,12,9.0,Progression,1,Non,,0
+PAT00710,Radiothérapie,,2022-11-21,18,7.0,Réponse partielle,2,Oui,8.0,7
+PAT00711,Chimiothérapie,,2021-07-01,36,10.0,Réponse partielle,1,Oui,22.0,7
+PAT00712,Immunothérapie,Hormonothérapie,2018-09-24,12,7.0,Maladie stable,2,Non,,3
+PAT00713,Chirurgie,Hormonothérapie,2019-03-02,24,,Réponse complète,0,Non,,0
+PAT00714,Chirurgie,,2020-05-25,12,,Réponse partielle,2,Non,,3
+PAT00715,Chirurgie,Chimiothérapie,2020-05-19,12,,Maladie stable,1,Non,,3
+PAT00716,Radiothérapie,Chimiothérapie,2020-12-26,36,9.0,Maladie stable,2,Non,,14
+PAT00717,Radiothérapie,Chimiothérapie,2018-12-04,6,4.0,Réponse partielle,3,Oui,9.0,7
+PAT00718,Radiothérapie,Chirurgie,2019-10-19,6,11.0,Réponse partielle,2,Non,,3
+PAT00719,Radiothérapie,,2020-09-20,18,6.0,Réponse partielle,2,Oui,32.0,0
+PAT00720,Chirurgie,,2019-12-22,12,,Réponse partielle,3,Oui,45.0,14
+PAT00721,Chirurgie,,2018-11-26,18,,Réponse complète,3,Oui,43.0,0
+PAT00722,Radiothérapie,Chimiothérapie,2019-11-01,6,6.0,Réponse complète,2,Oui,36.0,3
+PAT00723,Chimiothérapie,,2018-02-04,18,5.0,Réponse partielle,1,Non,,0
+PAT00724,Immunothérapie,,2022-08-22,24,8.0,Maladie stable,4,Non,,7
+PAT00725,Chimiothérapie,,2023-02-07,12,7.0,Maladie stable,3,Non,,14
+PAT00726,Chirurgie,Radiothérapie,2023-04-17,12,,Réponse partielle,2,Non,,7
+PAT00727,Immunothérapie,Chimiothérapie,2021-05-06,12,4.0,Maladie stable,3,Non,,3
+PAT00728,Chimiothérapie,Immunothérapie,2018-05-28,12,7.0,Réponse partielle,1,Non,,0
+PAT00729,Chimiothérapie,Hormonothérapie,2020-08-18,12,8.0,Maladie stable,1,Oui,42.0,7
+PAT00730,Chimiothérapie,Immunothérapie,2021-04-09,18,7.0,Réponse complète,3,Non,,7
+PAT00731,Chirurgie,,2021-03-12,6,,Réponse partielle,2,Oui,42.0,7
+PAT00732,Chirurgie,,2023-02-09,12,,Maladie stable,2,Non,,3
+PAT00733,Chirurgie,Radiothérapie,2018-10-31,18,,Maladie stable,0,Non,,3
+PAT00734,Chirurgie,,2020-09-01,18,,Réponse complète,1,Non,,0
+PAT00735,Chirurgie,Radiothérapie,2021-01-13,12,,Réponse partielle,1,Non,,3
+PAT00736,Chimiothérapie,Chirurgie,2020-04-20,6,6.0,Réponse partielle,3,Non,,7
+PAT00737,Chimiothérapie,Immunothérapie,2022-11-01,12,11.0,Maladie stable,3,Oui,41.0,7
+PAT00738,Immunothérapie,,2019-05-05,18,10.0,Progression,2,Non,,14
+PAT00739,Chirurgie,Thérapie ciblée,2020-07-16,6,,Réponse partielle,2,Non,,3
+PAT00740,Radiothérapie,,2019-09-11,12,6.0,Réponse complète,2,Non,,0
+PAT00741,Radiothérapie,,2021-01-13,36,7.0,Réponse complète,3,Non,,14
+PAT00742,Thérapie ciblée,,2019-08-30,12,7.0,Réponse complète,0,Oui,24.0,14
+PAT00743,Radiothérapie,Thérapie ciblée,2018-11-11,18,4.0,Réponse partielle,3,Non,,0
+PAT00744,Chimiothérapie,Chirurgie,2018-09-07,18,10.0,Réponse partielle,3,Non,,7
+PAT00745,Chimiothérapie,Immunothérapie,2019-12-06,18,6.0,Maladie stable,2,Oui,47.0,14
+PAT00746,Chimiothérapie,,2021-07-04,12,9.0,Progression,4,Non,,0
+PAT00747,Chirurgie,,2021-04-20,18,,Maladie stable,2,Non,,7
+PAT00748,Radiothérapie,,2022-12-16,24,9.0,Réponse partielle,3,Non,,0
+PAT00749,Chirurgie,Immunothérapie,2019-06-21,6,,Réponse partielle,2,Oui,10.0,0
+PAT00750,Chirurgie,,2023-04-13,6,,Réponse partielle,1,Non,,0
+PAT00751,Chirurgie,,2021-06-13,12,,Progression,1,Non,,0
+PAT00752,Chimiothérapie,,2022-07-25,36,5.0,Réponse partielle,1,Non,,0
+PAT00753,Chimiothérapie,Chirurgie,2021-01-25,24,5.0,Réponse partielle,0,Non,,3
+PAT00754,Chirurgie,,2023-09-05,36,,Réponse partielle,2,Non,,0
+PAT00755,Chirurgie,,2023-08-01,12,,Réponse complète,2,Non,,3
+PAT00756,Chimiothérapie,Thérapie ciblée,2022-12-11,6,10.0,Progression,2,Non,,0
+PAT00757,Radiothérapie,,2018-12-19,12,7.0,Réponse partielle,1,Oui,38.0,3
+PAT00758,Chirurgie,Chimiothérapie,2018-07-01,12,,Maladie stable,4,Non,,14
+PAT00759,Radiothérapie,Hormonothérapie,2022-11-15,12,9.0,Réponse complète,2,Non,,0
+PAT00760,Chirurgie,Immunothérapie,2021-09-08,24,,Maladie stable,0,Oui,29.0,21
+PAT00761,Chimiothérapie,,2020-11-17,6,10.0,Réponse complète,2,Non,,7
+PAT00762,Radiothérapie,,2018-04-23,6,7.0,Réponse partielle,1,Non,,3
+PAT00763,Chirurgie,,2019-01-31,24,,Progression,2,Oui,43.0,0
+PAT00764,Chimiothérapie,,2020-08-11,18,11.0,Réponse complète,1,Oui,40.0,3
+PAT00765,Chimiothérapie,,2018-04-02,18,10.0,Réponse partielle,2,Oui,39.0,14
+PAT00766,Immunothérapie,,2021-01-29,24,7.0,Maladie stable,4,Oui,20.0,14
+PAT00767,Chimiothérapie,Hormonothérapie,2018-07-06,18,5.0,Réponse partielle,0,Non,,0
+PAT00768,Chimiothérapie,Immunothérapie,2020-01-09,36,10.0,Maladie stable,1,Non,,7
+PAT00769,Chimiothérapie,,2023-05-12,18,6.0,Progression,2,Non,,7
+PAT00770,Chirurgie,Hormonothérapie,2023-11-17,36,,Réponse partielle,0,Oui,31.0,0
+PAT00771,Chimiothérapie,,2023-01-08,18,7.0,Maladie stable,0,Oui,24.0,3
+PAT00772,Radiothérapie,,2021-02-18,24,4.0,Progression,2,Non,,21
+PAT00773,Immunothérapie,,2020-01-31,18,4.0,Réponse complète,3,Non,,21
+PAT00774,Chirurgie,Hormonothérapie,2022-12-11,18,,Réponse partielle,1,Non,,14
+PAT00775,Chirurgie,Immunothérapie,2023-07-14,12,,Maladie stable,4,Oui,6.0,0
+PAT00776,Chimiothérapie,,2019-02-03,24,4.0,Réponse complète,2,Non,,3
+PAT00777,Chirurgie,,2023-04-27,12,,Maladie stable,1,Non,,0
+PAT00778,Chirurgie,,2021-12-12,18,,Réponse complète,4,Non,,3
+PAT00779,Immunothérapie,,2022-08-13,24,7.0,Réponse partielle,2,Non,,0
+PAT00780,Chirurgie,Immunothérapie,2021-10-25,18,,Réponse partielle,0,Non,,14
+PAT00781,Chirurgie,,2021-08-13,6,,Progression,2,Non,,0
+PAT00782,Radiothérapie,,2019-03-21,18,7.0,Maladie stable,1,Non,,3
+PAT00783,Chirurgie,,2019-11-20,12,,Réponse complète,1,Oui,31.0,7
+PAT00784,Chimiothérapie,,2021-09-19,12,7.0,Réponse complète,1,Non,,0
+PAT00785,Chirurgie,Hormonothérapie,2022-08-30,18,,Maladie stable,2,Non,,7
+PAT00786,Chirurgie,Chimiothérapie,2023-08-04,12,,Progression,1,Oui,33.0,3
+PAT00787,Chimiothérapie,,2021-04-23,24,7.0,Réponse partielle,1,Non,,7
+PAT00788,Radiothérapie,Chimiothérapie,2022-07-25,12,4.0,Progression,2,Oui,30.0,14
+PAT00789,Chirurgie,Chimiothérapie,2018-06-25,18,,Réponse partielle,2,Non,,0
+PAT00790,Radiothérapie,,2023-02-14,12,9.0,Maladie stable,2,Non,,7
+PAT00791,Immunothérapie,Thérapie ciblée,2019-01-25,12,9.0,Maladie stable,1,Oui,34.0,7
+PAT00792,Chirurgie,Radiothérapie,2021-08-04,18,,Progression,3,Non,,3
+PAT00793,Chimiothérapie,,2020-11-27,6,8.0,Maladie stable,4,Non,,7
+PAT00794,Chirurgie,Thérapie ciblée,2021-09-15,24,,Réponse complète,3,Oui,34.0,3
+PAT00795,Chirurgie,,2019-05-05,18,,Réponse partielle,0,Oui,11.0,3
+PAT00796,Radiothérapie,Immunothérapie,2022-07-23,12,9.0,Réponse complète,1,Non,,21
+PAT00797,Chimiothérapie,Thérapie ciblée,2023-10-15,18,9.0,Réponse partielle,0,Oui,36.0,3
+PAT00798,Chirurgie,Thérapie ciblée,2018-01-21,18,,Réponse partielle,1,Non,,14
+PAT00799,Chirurgie,Chimiothérapie,2023-03-30,24,,Réponse partielle,3,Non,,7
+PAT00800,Chimiothérapie,Hormonothérapie,2022-09-04,24,10.0,Réponse complète,2,Non,,7
+PAT00801,Chimiothérapie,,2018-09-05,12,6.0,Progression,3,Non,,3
+PAT00802,Chirurgie,,2020-02-18,12,,Maladie stable,1,Oui,22.0,3
+PAT00803,Chirurgie,Chimiothérapie,2023-11-23,6,,Réponse complète,2,Oui,22.0,21
+PAT00804,Chirurgie,Radiothérapie,2022-02-16,36,,Réponse partielle,1,Oui,41.0,7
+PAT00805,Radiothérapie,,2023-08-23,6,8.0,Progression,4,Non,,0
+PAT00806,Radiothérapie,,2023-01-12,24,5.0,Réponse complète,2,Non,,0
+PAT00807,Chimiothérapie,,2018-08-20,18,8.0,Maladie stable,3,Oui,31.0,3
+PAT00808,Chirurgie,,2020-05-08,18,,Maladie stable,2,Non,,0
+PAT00809,Chirurgie,,2021-01-08,6,,Maladie stable,3,Oui,34.0,21
+PAT00810,Chirurgie,Hormonothérapie,2019-07-21,6,,Maladie stable,2,Oui,20.0,3
+PAT00811,Chimiothérapie,,2021-04-03,36,7.0,Maladie stable,1,Oui,16.0,0
+PAT00812,Radiothérapie,,2022-12-07,6,11.0,Réponse partielle,1,Non,,0
+PAT00813,Chimiothérapie,,2023-07-06,18,6.0,Maladie stable,2,Non,,7
+PAT00814,Immunothérapie,Chirurgie,2019-06-11,18,4.0,Réponse partielle,0,Non,,21
+PAT00815,Chimiothérapie,,2018-05-18,12,4.0,Maladie stable,2,Non,,7
+PAT00816,Radiothérapie,Chirurgie,2020-09-13,18,11.0,Maladie stable,0,Oui,33.0,0
+PAT00817,Immunothérapie,Chimiothérapie,2019-10-25,6,6.0,Progression,1,Oui,18.0,0
+PAT00818,Radiothérapie,Immunothérapie,2021-07-07,18,9.0,Progression,3,Non,,21
+PAT00819,Chirurgie,,2018-03-04,24,,Réponse partielle,1,Non,,14
+PAT00820,Chimiothérapie,Thérapie ciblée,2022-08-29,12,6.0,Réponse complète,1,Oui,33.0,3
+PAT00821,Chirurgie,Thérapie ciblée,2019-01-28,6,,Réponse complète,2,Non,,3
+PAT00822,Radiothérapie,Hormonothérapie,2020-07-15,36,4.0,Réponse partielle,1,Non,,0
+PAT00823,Chirurgie,Radiothérapie,2019-04-25,18,,Réponse partielle,1,Non,,7
+PAT00824,Radiothérapie,,2023-03-20,18,7.0,Réponse complète,2,Non,,7
+PAT00825,Chirurgie,Radiothérapie,2019-05-18,6,,Réponse partielle,4,Non,,0
+PAT00826,Radiothérapie,,2019-10-10,18,8.0,Progression,2,Non,,7
+PAT00827,Radiothérapie,,2023-08-26,6,5.0,Maladie stable,2,Non,,3
+PAT00828,Chirurgie,Chimiothérapie,2021-04-30,18,,Réponse partielle,3,Non,,7
+PAT00829,Chimiothérapie,Immunothérapie,2023-09-29,6,5.0,Maladie stable,3,Oui,30.0,21
+PAT00830,Chirurgie,,2021-01-30,12,,Progression,1,Non,,7
+PAT00831,Chirurgie,Immunothérapie,2022-09-27,12,,Maladie stable,2,Oui,28.0,7
+PAT00832,Chirurgie,,2023-06-25,12,,Réponse complète,2,Oui,14.0,3
+PAT00833,Chirurgie,Radiothérapie,2023-04-30,24,,Réponse complète,2,Oui,6.0,0
+PAT00834,Immunothérapie,,2020-10-09,36,8.0,Progression,1,Non,,14
+PAT00835,Chimiothérapie,,2023-03-02,36,11.0,Réponse partielle,2,Oui,8.0,3
+PAT00836,Chimiothérapie,,2019-09-14,18,5.0,Réponse partielle,0,Non,,3
+PAT00837,Chirurgie,,2022-04-27,12,,Réponse partielle,0,Non,,3
+PAT00838,Radiothérapie,,2020-03-16,18,5.0,Réponse partielle,0,Non,,14
+PAT00839,Immunothérapie,,2023-09-28,12,7.0,Réponse partielle,0,Oui,9.0,0
+PAT00840,Chirurgie,Radiothérapie,2019-07-27,18,,Progression,3,Non,,0
+PAT00841,Chirurgie,Radiothérapie,2018-10-21,24,,Réponse partielle,2,Non,,3
+PAT00842,Chirurgie,,2021-03-07,18,,Réponse partielle,1,Non,,14
+PAT00843,Chimiothérapie,,2022-09-12,18,10.0,Réponse complète,4,Oui,42.0,3
+PAT00844,Chimiothérapie,Chirurgie,2021-11-11,18,8.0,Progression,4,Non,,0
+PAT00845,Chimiothérapie,Immunothérapie,2023-09-28,12,11.0,Progression,1,Non,,21
+PAT00846,Radiothérapie,Hormonothérapie,2021-01-27,6,6.0,Progression,1,Non,,0
+PAT00847,Chimiothérapie,Chirurgie,2018-01-30,12,6.0,Réponse complète,3,Oui,42.0,14
+PAT00848,Chimiothérapie,,2021-03-21,12,8.0,Maladie stable,2,Non,,0
+PAT00849,Chimiothérapie,,2021-05-22,12,5.0,Réponse partielle,2,Non,,14
+PAT00850,Immunothérapie,Thérapie ciblée,2023-07-09,6,7.0,Progression,3,Non,,0
+PAT00851,Radiothérapie,Thérapie ciblée,2019-09-21,36,5.0,Maladie stable,1,Non,,7
+PAT00852,Thérapie ciblée,Chimiothérapie,2023-01-31,36,6.0,Progression,1,Non,,3
+PAT00853,Chimiothérapie,,2023-06-27,36,11.0,Maladie stable,3,Non,,0
+PAT00854,Chirurgie,,2021-11-30,6,,Réponse complète,2,Non,,3
+PAT00855,Chimiothérapie,Immunothérapie,2021-10-23,36,5.0,Maladie stable,0,Non,,0
+PAT00856,Radiothérapie,Chimiothérapie,2022-04-16,6,6.0,Réponse partielle,4,Oui,13.0,3
+PAT00857,Chimiothérapie,Immunothérapie,2023-02-22,6,5.0,Progression,0,Oui,11.0,3
+PAT00858,Immunothérapie,Chimiothérapie,2021-09-10,12,6.0,Réponse partielle,4,Non,,3
+PAT00859,Chirurgie,Immunothérapie,2020-02-19,18,,Maladie stable,2,Oui,12.0,3
+PAT00860,Chimiothérapie,Immunothérapie,2020-10-03,24,7.0,Réponse partielle,2,Oui,34.0,7
+PAT00861,Radiothérapie,Chirurgie,2022-05-06,18,11.0,Réponse complète,1,Non,,7
+PAT00862,Chimiothérapie,,2020-08-21,18,7.0,Maladie stable,2,Non,,0
+PAT00863,Chirurgie,,2022-08-28,6,,Réponse partielle,1,Non,,7
+PAT00864,Chirurgie,,2018-07-22,12,,Réponse partielle,1,Non,,3
+PAT00865,Immunothérapie,Chirurgie,2021-08-06,24,4.0,Progression,1,Non,,14
+PAT00866,Radiothérapie,Immunothérapie,2023-05-14,18,9.0,Réponse complète,2,Oui,25.0,0
+PAT00867,Chimiothérapie,Radiothérapie,2022-04-25,18,4.0,Réponse partielle,2,Oui,20.0,3
+PAT00868,Radiothérapie,,2022-05-16,12,10.0,Réponse complète,3,Non,,0
+PAT00869,Chirurgie,,2019-09-24,12,,Maladie stable,0,Non,,3
+PAT00870,Immunothérapie,Thérapie ciblée,2023-07-29,12,9.0,Maladie stable,1,Oui,10.0,3
+PAT00871,Chirurgie,,2018-06-16,12,,Réponse complète,2,Oui,45.0,7
+PAT00872,Chirurgie,Radiothérapie,2019-06-28,18,,Réponse partielle,1,Non,,14
+PAT00873,Chimiothérapie,,2023-09-03,12,11.0,Réponse complète,2,Non,,21
+PAT00874,Chirurgie,Hormonothérapie,2021-10-05,12,,Réponse partielle,2,Non,,3
+PAT00875,Chimiothérapie,,2019-03-07,18,5.0,Maladie stable,2,Oui,14.0,3
+PAT00876,Radiothérapie,,2023-01-02,12,10.0,Maladie stable,2,Non,,7
+PAT00877,Chirurgie,,2019-03-12,6,,Réponse partielle,0,Non,,0
+PAT00878,Chirurgie,,2023-12-13,18,,Réponse complète,2,Non,,14
+PAT00879,Chirurgie,Thérapie ciblée,2023-02-25,6,,Réponse partielle,0,Non,,0
+PAT00880,Chimiothérapie,,2018-03-31,24,11.0,Maladie stable,3,Oui,35.0,14
+PAT00881,Radiothérapie,,2019-09-02,6,8.0,Maladie stable,3,Oui,34.0,3
+PAT00882,Radiothérapie,,2022-08-23,36,7.0,Réponse complète,3,Non,,0
+PAT00883,Chimiothérapie,Radiothérapie,2019-10-14,18,6.0,Réponse partielle,2,Oui,31.0,3
+PAT00884,Chimiothérapie,Radiothérapie,2018-11-09,6,7.0,Progression,1,Non,,3
+PAT00885,Radiothérapie,,2023-05-06,12,9.0,Réponse complète,4,Oui,29.0,3
+PAT00886,Immunothérapie,,2021-01-06,18,11.0,Maladie stable,2,Non,,0
+PAT00887,Radiothérapie,Immunothérapie,2021-11-11,6,7.0,Réponse partielle,1,Oui,44.0,0
+PAT00888,Thérapie ciblée,,2022-07-05,6,8.0,Réponse complète,4,Oui,24.0,7
+PAT00889,Chirurgie,Hormonothérapie,2018-12-08,12,,Réponse partielle,0,Non,,3
+PAT00890,Chimiothérapie,,2021-10-02,6,5.0,Réponse partielle,2,Oui,35.0,0
+PAT00891,Chimiothérapie,Immunothérapie,2024-01-25,12,10.0,Réponse partielle,2,Non,,0
+PAT00892,Chimiothérapie,Immunothérapie,2022-04-12,36,8.0,Réponse partielle,1,Oui,10.0,0
+PAT00893,Radiothérapie,Chimiothérapie,2021-07-28,18,6.0,Progression,2,Non,,3
+PAT00894,Chirurgie,,2023-07-18,18,,Réponse complète,2,Non,,0
+PAT00895,Chirurgie,,2018-06-22,12,,Réponse complète,2,Non,,3
+PAT00896,Radiothérapie,Hormonothérapie,2018-10-25,12,7.0,Réponse complète,3,Non,,14
+PAT00897,Radiothérapie,Chirurgie,2020-09-04,36,11.0,Réponse partielle,2,Non,,0
+PAT00898,Chimiothérapie,,2021-04-13,6,8.0,Réponse partielle,1,Non,,3
+PAT00899,Chirurgie,,2020-08-19,18,,Réponse partielle,2,Non,,7
+PAT00900,Chimiothérapie,,2019-02-03,18,10.0,Réponse partielle,2,Non,,3
+PAT00901,Radiothérapie,Chimiothérapie,2022-12-09,6,7.0,Réponse partielle,1,Non,,7
+PAT00902,Chirurgie,Thérapie ciblée,2019-02-18,18,,Réponse partielle,4,Non,,14
+PAT00903,Chirurgie,,2019-02-21,18,,Réponse partielle,1,Non,,0
+PAT00904,Chimiothérapie,,2023-01-01,18,7.0,Réponse partielle,3,Non,,0
+PAT00905,Radiothérapie,Chimiothérapie,2019-12-07,36,5.0,Maladie stable,3,Oui,39.0,14
+PAT00906,Immunothérapie,Chimiothérapie,2021-06-06,12,7.0,Progression,1,Oui,45.0,3
+PAT00907,Chimiothérapie,Immunothérapie,2018-05-29,12,5.0,Maladie stable,4,Non,,3
+PAT00908,Radiothérapie,Hormonothérapie,2018-07-27,6,7.0,Réponse partielle,2,Oui,43.0,14
+PAT00909,Chimiothérapie,Immunothérapie,2021-08-27,18,9.0,Progression,3,Non,,14
+PAT00910,Chirurgie,Radiothérapie,2018-08-27,18,,Réponse partielle,1,Oui,29.0,0
+PAT00911,Chimiothérapie,Radiothérapie,2021-04-23,6,5.0,Maladie stable,0,Non,,14
+PAT00912,Radiothérapie,,2022-01-20,12,10.0,Réponse partielle,1,Oui,33.0,7
+PAT00913,Immunothérapie,,2022-04-14,12,9.0,Réponse partielle,0,Non,,21
+PAT00914,Chirurgie,,2022-11-25,18,,Réponse partielle,2,Non,,0
+PAT00915,Immunothérapie,,2019-09-05,12,7.0,Réponse partielle,1,Non,,0
+PAT00916,Radiothérapie,,2020-10-13,12,10.0,Progression,2,Non,,7
+PAT00917,Chirurgie,Chimiothérapie,2024-01-02,24,,Réponse complète,2,Non,,21
+PAT00918,Chimiothérapie,Thérapie ciblée,2022-09-07,12,5.0,Maladie stable,1,Oui,17.0,0
+PAT00919,Chirurgie,Radiothérapie,2020-01-14,12,,Réponse complète,0,Non,,0
+PAT00920,Radiothérapie,,2019-12-22,6,8.0,Réponse complète,3,Non,,7
+PAT00921,Chirurgie,,2019-12-28,12,,Réponse partielle,0,Oui,11.0,7
+PAT00922,Chirurgie,,2018-12-16,6,,Maladie stable,2,Oui,23.0,3
+PAT00923,Chirurgie,,2022-05-05,24,,Réponse partielle,3,Non,,0
+PAT00924,Chirurgie,Hormonothérapie,2020-09-29,6,,Réponse partielle,3,Non,,7
+PAT00925,Radiothérapie,Chimiothérapie,2023-08-17,12,9.0,Réponse partielle,1,Non,,3
+PAT00926,Chirurgie,Immunothérapie,2019-08-29,6,,Maladie stable,1,Non,,0
+PAT00927,Radiothérapie,Chimiothérapie,2020-09-07,12,4.0,Réponse partielle,2,Non,,0
+PAT00928,Radiothérapie,Chimiothérapie,2023-03-11,12,5.0,Réponse partielle,1,Oui,13.0,0
+PAT00929,Radiothérapie,Immunothérapie,2020-11-29,12,8.0,Réponse partielle,2,Non,,3
+PAT00930,Radiothérapie,Thérapie ciblée,2023-03-07,18,11.0,Réponse complète,3,Non,,0
+PAT00931,Radiothérapie,Hormonothérapie,2020-12-02,36,8.0,Réponse complète,1,Non,,14
+PAT00932,Thérapie ciblée,Hormonothérapie,2018-02-24,12,8.0,Progression,0,Non,,14
+PAT00933,Chirurgie,,2023-04-07,6,,Maladie stable,2,Non,,3
+PAT00934,Chirurgie,Hormonothérapie,2021-04-08,12,,Maladie stable,1,Oui,32.0,14
+PAT00935,Chirurgie,,2019-11-04,12,,Progression,1,Non,,0
+PAT00936,Radiothérapie,Hormonothérapie,2018-11-12,6,7.0,Progression,1,Non,,7
+PAT00937,Chirurgie,,2022-12-27,6,,Progression,1,Non,,7
+PAT00938,Chirurgie,Immunothérapie,2021-11-24,24,,Réponse partielle,3,Oui,34.0,7
+PAT00939,Chirurgie,,2021-05-15,12,,Progression,2,Non,,14
+PAT00940,Chirurgie,,2022-11-01,24,,Maladie stable,1,Non,,21
+PAT00941,Chimiothérapie,,2020-10-31,18,10.0,Réponse partielle,2,Non,,7
+PAT00942,Radiothérapie,,2023-03-07,18,11.0,Progression,1,Oui,20.0,3
+PAT00943,Radiothérapie,,2021-06-12,12,6.0,Réponse partielle,3,Oui,28.0,0
+PAT00944,Chirurgie,Immunothérapie,2020-04-12,24,,Réponse complète,1,Non,,14
+PAT00945,Immunothérapie,Hormonothérapie,2022-05-17,36,9.0,Réponse partielle,1,Oui,8.0,7
+PAT00946,Chirurgie,,2023-06-11,18,,Réponse partielle,2,Non,,0
+PAT00947,Chirurgie,Hormonothérapie,2019-03-26,24,,Réponse partielle,1,Non,,0
+PAT00948,Chimiothérapie,,2020-09-27,18,8.0,Progression,1,Non,,14
+PAT00949,Chimiothérapie,Thérapie ciblée,2022-04-25,6,7.0,Maladie stable,1,Non,,7
+PAT00950,Chirurgie,,2022-02-06,6,,Réponse partielle,2,Non,,7
+PAT00951,Radiothérapie,Thérapie ciblée,2021-05-15,12,6.0,Réponse complète,1,Oui,36.0,0
+PAT00952,Radiothérapie,,2021-05-05,12,9.0,Réponse complète,3,Non,,3
+PAT00953,Chirurgie,,2018-04-24,6,,Réponse partielle,0,Non,,0
+PAT00954,Chirurgie,,2022-06-24,12,,Réponse partielle,2,Non,,7
+PAT00955,Chirurgie,Hormonothérapie,2021-02-25,24,,Réponse complète,1,Oui,46.0,7
+PAT00956,Immunothérapie,,2018-02-23,36,5.0,Maladie stable,1,Non,,0
+PAT00957,Chimiothérapie,,2018-07-31,18,9.0,Réponse partielle,2,Non,,7
+PAT00958,Chirurgie,,2023-08-05,18,,Maladie stable,0,Oui,36.0,14
+PAT00959,Immunothérapie,Hormonothérapie,2021-03-27,18,6.0,Maladie stable,1,Non,,7
+PAT00960,Chirurgie,Radiothérapie,2020-08-07,12,,Maladie stable,2,Non,,7
+PAT00961,Chirurgie,,2022-01-02,18,,Réponse partielle,1,Oui,43.0,0
+PAT00962,Chimiothérapie,,2020-06-26,36,5.0,Réponse partielle,1,Non,,0
+PAT00963,Radiothérapie,,2020-03-16,6,5.0,Réponse partielle,1,Non,,7
+PAT00964,Chimiothérapie,Chirurgie,2020-11-11,24,8.0,Réponse partielle,3,Non,,7
+PAT00965,Chirurgie,Hormonothérapie,2019-07-22,6,,Maladie stable,0,Non,,3
+PAT00966,Immunothérapie,,2019-03-04,18,7.0,Réponse complète,1,Oui,7.0,0
+PAT00967,Chirurgie,Thérapie ciblée,2018-07-07,18,,Réponse partielle,1,Non,,0
+PAT00968,Chirurgie,,2021-07-04,6,,Réponse partielle,3,Oui,14.0,14
+PAT00969,Chimiothérapie,Hormonothérapie,2023-01-06,6,7.0,Réponse partielle,2,Non,,14
+PAT00970,Chimiothérapie,,2018-06-02,12,8.0,Réponse partielle,1,Oui,34.0,0
+PAT00971,Chimiothérapie,Thérapie ciblée,2022-03-02,18,9.0,Progression,3,Non,,21
+PAT00972,Chirurgie,,2019-06-30,24,,Réponse partielle,0,Oui,15.0,21
+PAT00973,Chimiothérapie,,2019-01-27,18,7.0,Maladie stable,3,Non,,3
+PAT00974,Chirurgie,,2021-05-15,6,,Maladie stable,0,Non,,7
+PAT00975,Radiothérapie,Chirurgie,2021-09-14,18,5.0,Réponse partielle,1,Oui,7.0,0
+PAT00976,Radiothérapie,Chimiothérapie,2022-09-12,12,11.0,Réponse partielle,3,Oui,42.0,7
+PAT00977,Chirurgie,Immunothérapie,2019-12-31,24,,Réponse partielle,3,Non,,14
+PAT00978,Immunothérapie,Chirurgie,2020-04-29,18,11.0,Progression,4,Oui,18.0,7
+PAT00979,Chimiothérapie,Immunothérapie,2019-07-23,18,5.0,Maladie stable,3,Non,,3
+PAT00980,Radiothérapie,Hormonothérapie,2022-03-06,12,4.0,Réponse partielle,0,Non,,7
+PAT00981,Radiothérapie,Immunothérapie,2024-01-09,12,10.0,Réponse complète,2,Non,,7
+PAT00982,Chimiothérapie,Thérapie ciblée,2023-08-28,12,11.0,Réponse partielle,1,Non,,7
+PAT00983,Chimiothérapie,Hormonothérapie,2021-02-20,18,10.0,Maladie stable,2,Non,,0
+PAT00984,Radiothérapie,,2019-11-21,6,4.0,Réponse partielle,1,Oui,14.0,7
+PAT00985,Immunothérapie,,2020-12-09,6,4.0,Maladie stable,0,Non,,0
+PAT00986,Chimiothérapie,Chirurgie,2023-06-09,12,8.0,Réponse complète,1,Non,,3
+PAT00987,Chirurgie,,2021-05-01,6,,Réponse partielle,3,Non,,7
+PAT00988,Immunothérapie,,2021-10-30,18,5.0,Réponse partielle,2,Non,,3
+PAT00989,Chimiothérapie,Chirurgie,2019-05-17,12,4.0,Réponse partielle,2,Non,,3
+PAT00990,Immunothérapie,,2023-04-12,18,4.0,Progression,2,Non,,7
+PAT00991,Immunothérapie,,2018-11-17,12,6.0,Progression,0,Non,,7
+PAT00992,Radiothérapie,Chirurgie,2019-08-30,18,6.0,Réponse complète,4,Oui,38.0,0
+PAT00993,Chirurgie,,2020-08-02,24,,Réponse partielle,1,Oui,28.0,3
+PAT00994,Chirurgie,,2022-06-21,18,,Réponse partielle,3,Oui,17.0,7
+PAT00995,Radiothérapie,,2022-02-23,18,10.0,Réponse complète,2,Non,,0
+PAT00996,Chirurgie,,2019-01-27,6,,Réponse complète,2,Non,,14
+PAT00997,Chirurgie,,2022-06-28,6,,Réponse partielle,2,Non,,7
+PAT00998,Chirurgie,Hormonothérapie,2018-03-15,6,,Réponse complète,1,Oui,28.0,21
+PAT00999,Chimiothérapie,Thérapie ciblée,2021-01-07,12,9.0,Réponse partielle,1,Non,,21
+PAT01000,Chirurgie,Chimiothérapie,2019-06-21,6,,Maladie stable,0,Non,,3
