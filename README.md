@@ -53,5 +53,34 @@ PostgreSQL/         → scripts de création BD
 Dashboard_bi/       → fichiers de visualisation
 Docs/               → supports et documentation
 
-
+'''
+├── oncobio_decision_analytics/
+├── Data/
+|   ├── External_api
+|       ├── biomarker_reference.csv
+|   ├── Interim
+|       ├── SEER Breast Cancer Dataset.csv
+|   ├── Processed
+|   ├── Raw_data
+|       ├── biomarkers_data.csv
+|       ├── patients_clinical_data.csv
+|       ├── treatment_outcomes.csv
+├── scr/
+│   ├── Ingestion
+|       ├── Script_d'extraction.ipynb
+│   ├── Kpi
+|   ├── Preprocessing
+├── Docs/
+│   ├── SEER Breast Cancer Dataset.docs
+│   ├── cahier_charges_filrouge.docs
+|── Notebooks/
+│   ├── 
+│   ├──
+|── PostgreSQL/
+|── Dashboard_bi/
+|── Final_ppt/
+|── .gitignore
+|── requirements.txt
+└── README.md
+'''
 
