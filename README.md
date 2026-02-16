@@ -84,3 +84,28 @@ Docs/               → supports et documentation
 └── README.md
 '''
 
+---
+
+## 📥 Sources de données utilisées (Phase actuelle)
+
+### 1️⃣ Données cliniques (CSV)
+Les premières analyses reposent sur un dataset public de cancer du sein contenant des informations démographiques, tumorales et de survie.
+
+Source : dépôt public Zenodo.
+
+Ces données constituent la base patient du projet.
+
+---
+
+### 2️⃣ Enrichissement biomarqueurs (API NCBI)
+
+Afin d’ajouter une dimension biologique au projet, une extraction automatique est réalisée via l’API publique **NCBI Entrez**.
+
+Pour chaque biomarqueur (ex : TP53, BRCA1, EGFR…), le pipeline récupère :
+
+- l’identifiant du gène  
+- le nom officiel  
+- une description biologique  
+
+Les résultats sont stockés dans :  Data/External_api/biomarker_reference.csv
+
