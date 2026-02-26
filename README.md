@@ -53,7 +53,7 @@ PostgreSQL/         → scripts de création BD
 Dashboard_bi/       → fichiers de visualisation
 Docs/               → supports et documentation
 
-'''
+
 ├── oncobio_decision_analytics/
 ├── Data/
 |   ├── External_api
@@ -82,13 +82,13 @@ Docs/               → supports et documentation
 |── .gitignore
 |── requirements.txt
 └── README.md
-'''
+
 
 ---
 
 ## 📥 Sources de données utilisées (Phase actuelle)
 
-### 1️⃣ Données cliniques (CSV)
+### 1. Données cliniques (CSV)
 Les premières analyses reposent sur un dataset public de cancer du sein contenant des informations démographiques, tumorales et de survie.
 
 Source : dépôt public Zenodo.
@@ -97,7 +97,7 @@ Ces données constituent la base patient du projet.
 
 ---
 
-### 2️⃣ Enrichissement biomarqueurs (API NCBI)
+### 2. Enrichissement biomarqueurs (API NCBI)
 
 Afin d’ajouter une dimension biologique au projet, une extraction automatique est réalisée via l’API publique **NCBI Entrez**.
 
