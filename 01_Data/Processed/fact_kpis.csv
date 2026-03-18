@@ -1,0 +1,3 @@
+cancer_type,total_patients,mean_age,death_rate,mean_survival,median_survival
+Breast,4024,54.0,15.31,71.3,73.0
+Lung,1228,62.2,70.68,308.3,267.5

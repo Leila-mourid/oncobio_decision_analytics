@@ -1,0 +1,7 @@
+cancer_type,risk_group,total_patients,death_rate,median_survival
+Breast,High Risk,71,66.2,7.0
+Breast,Medium Risk,231,81.39,25.0
+Breast,Low Risk,3722,10.24,75.0
+Lung,High Risk,17,94.12,8.0
+Lung,Medium Risk,43,83.72,28.0
+Lung,Low Risk,1168,69.86,277.5

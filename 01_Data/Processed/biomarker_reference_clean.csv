@@ -1,0 +1,11 @@
+biomarker_id,gene_symbol,gene_id,official_name,description
+1,,,TP53,tumor protein p53
+2,,,BRCA1,BRCA1 DNA repair associated
+3,,,BRCA2,BRCA2 DNA repair associated
+4,,,EGFR,epidermal growth factor receptor
+5,,,KRAS,"KRAS proto-oncogene, GTPase"
+6,,,BRAF,"B-Raf proto-oncogene, serine/threonine kinase"
+7,,,PIK3CA,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha"
+8,,,PTEN,phosphatase and tensin homolog
+9,,,ALK,ALK receptor tyrosine kinase
+10,,,ERBB2,erb-b2 receptor tyrosine kinase 2
