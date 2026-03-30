@@ -91,7 +91,7 @@ Docs/               → supports et documentation
 
 ---
 
-## 📥 Sources de données utilisées (Phase actuelle)
+##  Sources de données utilisées 
 
 ### 1. Données cliniques (CSV)
 Les premières analyses reposent sur un dataset public de cancer du sein contenant des informations démographiques, tumorales et de survie.
@@ -113,10 +113,10 @@ Pour chaque biomarqueur (ex : TP53, BRCA1, EGFR…), le pipeline récupère :
 - une description biologique  
 
 Les résultats sont stockés dans :  Data/External_api/biomarker_reference.csv
+---
 
 ##  Pipeline Data
 Sources → Ingestion → Cleaning → Processed → PostgreSQL → KPI → Dashboard
-
 
 ---
 
