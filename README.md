@@ -3,6 +3,11 @@
 
 Analyse décisionnelle des biomarqueurs associés au cancer à partir de données cliniques et biologiques
 
+![Python](https://img.shields.io/badge/Python-Data-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
+![API](https://img.shields.io/badge/API-NCBI-green)
+![Status](https://img.shields.io/badge/Project-In%20Progress-orange)
 
 ## Réalisé par
 Leila Mourid  
@@ -41,7 +46,7 @@ Le repository suit une organisation inspirée des bonnes pratiques Data Engineer
 - reproductibilité  
 - traçabilité  
 - industrialisation du pipeline 
-
+```
 src/                → scripts Python du pipeline
 Data/
    Raw_data/        → données sources initiales
@@ -52,8 +57,8 @@ Notebooks/          → exploration et EDA
 PostgreSQL/         → scripts de création BD
 Dashboard_bi/       → fichiers de visualisation
 Docs/               → supports et documentation
-
-
+```
+```
 ├── oncobio_decision_analytics/
 ├── Data/
 |   ├── External_api
@@ -82,7 +87,7 @@ Docs/               → supports et documentation
 |── .gitignore
 |── requirements.txt
 └── README.md
-
+```
 
 ---
 
@@ -108,4 +113,81 @@ Pour chaque biomarqueur (ex : TP53, BRCA1, EGFR…), le pipeline récupère :
 - une description biologique  
 
 Les résultats sont stockés dans :  Data/External_api/biomarker_reference.csv
+
+##  Pipeline Data
+Sources → Ingestion → Cleaning → Processed → PostgreSQL → KPI → Dashboard
+
+
+---
+
+##  Modélisation des données
+
+Le modèle suit un schéma en étoile permettant une analyse optimisée.
+
+### Dimensions
+- dim_patients  
+- dim_biomarkers  
+
+### Tables de faits
+- fact_clinical_outcomes  
+- fact_patient_biomarkers  
+
+---
+
+##  KPI analysés
+
+### 🔹 KPI cliniques
+- nombre total de patients  
+- âge moyen  
+- répartition par sexe  
+- répartition par type de cancer  
+- distribution des groupes de risque  
+
+### 🔹 KPI pronostiques
+- taux de mortalité  
+- survie moyenne  
+- survie médiane  
+- survie par stade  
+- survie par ECOG  
+
+### 🔹 KPI décisionnels
+- répartition des groupes à risque  
+- biomarqueurs les plus étudiés  
+- profils à haut risque  
+
+---
+
+##  Dashboard Power BI
+
+Le dashboard est structuré en 3 pages :
+
+###  Overview
+- KPI globaux  
+- distribution des patients  
+- indicateurs de survie  
+
+###  Clinical Analysis
+- impact du stade  
+- impact ECOG  
+- analyse âge / survie  
+
+###  Decision Support
+- biomarqueurs  
+- profils à risque  
+- analyse décisionnelle  
+
+---
+
+##  Valeur métier
+
+Ce projet permet :
+
+-  d’identifier les patients à haut risque  
+-  d’analyser les facteurs influençant la survie  
+-  d’intégrer les biomarqueurs dans l’analyse  
+-  d’aider à la prise de décision médicale  
+
+---
+
+*Projet réalisé dans le cadre de la formation Data Analyst — Mars 2025*
 
